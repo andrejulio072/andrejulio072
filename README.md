@@ -1,6 +1,6 @@
 <h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
-<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+<img src="https://i.redd.it/93h2cc04ypm51.jpg" width="100%"/>
 
 
 ## :sassy_man:  About me
@@ -60,15 +60,6 @@
 
 [![Ruby](https://img.shields.io/badge/-ruby-red?style=flat&logo=ruby&link=https://github.com/andrejulio072)](https://github.com/andrejulio072)
 [![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=flat&logo=rubyonrails&link=https://github.com/andrejulio072)](https://github.com/andrejulio072)
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
-</p>
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
-
 
  ### 👉 Software & Tools
  
