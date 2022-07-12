@@ -1,6 +1,5 @@
 <h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
-<img src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
 
 
 ## :sassy_man:  About me
@@ -131,4 +130,4 @@
 <br/>
 <h1 align="center"> Any programmer can be a bodybuilder 😉👊🏼</h1>
 
-<img src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
+<img align='center' src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
