@@ -130,4 +130,4 @@
 <br/>
 <h1 align="center"> Any programmer can be a bodybuilder 😉👊🏼</h1>
 
-<img align='center' src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
+<img align='center' src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%" style="max-width: 100%;margin-left: 160px;"/>
