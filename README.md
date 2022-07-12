@@ -1,5 +1,7 @@
 <h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
+<video width="100%" autoplay>
+  <source src="https://scontent.cdninstagram.com/v/t50.2886-16/203642464_119688453653280_4145109772743059319_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5jbGlwcy5iYXNlbGluZSIsInFlX2dyb3VwcyI6IltcImlnX3dlYl9kZWxpdmVyeV92dHNfb3RmXCJdIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=IJX3foVeBacAX-M5Sf4&edm=AJBgZrYBAAAA&vs=522715805540683_1471698003&_nc_vs=HBksFQAYJEdHQldJd3dnZzhNajIyd0FBSGVuV1dndLqKU91MFuXHQ37nHZBejCiEjDGXsRHTmpPTEF6WV9RNmRlSFFGQU8ySTlxWFE2dGctYnFfRUFBQUYVAgLIAQAoABgAGwAVAAAmrpDGrbjI2z8VAigCQzMsF0As7peNT987GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX%2BBwA%3D&ccb=7-5&oe=62D065C4&oh=00_AT-GhkGV5_j81sMnE3N824SIyTBp6E69EuHCg5ghC34Y4g&_nc_sid=78c662&dl=1" type="video/mp4"> </video>
 
 
 ## :sassy_man:  About me
@@ -130,4 +132,4 @@
 <br/>
 <h1 align="center"> Any programmer can be a bodybuilder 😉👊🏼</h1>
 
-<img align='center' src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%" style="max-width: 100%;margin-left: 160px;"/>
+<img align='center' src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%" style="margin-left: 160px;"/>
