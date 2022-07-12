@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Andre Garcia</h1>
-<h3 align="center">A passionate Full-Stack developer from Brazil/Spain, living in UK</h3>
+<h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
+<h3 align="center">A passionate Full-Stack developer</h3>
+<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
 
 
 ## :sassy_man:  About me
 
 - 🔭 I’m currently working on [STAY SAFE](https://www.staysaferio.me/incidents)
 
-- 🌱 I’m currently learning **French, Rails, Django, React and Mobile Development**
+- 🌱 I’m currently learning **French, Rails, Django, React and Web/Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/andrejulio072](https://troopl.com/andrejulio072)
 
-- 💬 Ask me about **Ruby and Python**
+- 💬 Ask me about **Ruby, Python, C++**
 
 - 📫 How to reach me **andrejulio072@hotmail.com**
 
@@ -77,6 +78,8 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
+	<a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
@@ -112,9 +115,7 @@
   &emsp;
     <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
