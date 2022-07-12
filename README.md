@@ -1,9 +1,8 @@
 <h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
+<video align="center" alt="video" width="100%" src="https://user-images.githubusercontent.com/85296705/178617048-0530fc20-d673-4135-813a-35b4106442e3.mp4"/>
 
-
-<div align='center' width='70%'>https://user-images.githubusercontent.com/85296705/178616323-febf82f0-f152-421b-992c-105cbbaf13ad.mp4</div>
 
 
 ## :sassy_man:  About me
@@ -26,10 +25,9 @@
 <p align="center">
 	<a href="mailto:andrenjulio072@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/andrejulio072"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://wa.me/447597689690"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/andrejulio072/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/andrejulio072/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
 
@@ -85,8 +83,6 @@
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -98,7 +94,6 @@
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
 &emsp;
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-black?style=flat&logo=sublimetext&link=https://github.com/andrejulio072)](https://github.com/andrejulio072)" /></a>
 </p>
@@ -126,12 +121,13 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>  
 </p>
 
 <br/>
-<h1> Any programmer can be a bodybuilder 😉👊🏼</h1>
 
+
+<h1 align='center'> Any programmer can be a bodybuilder 😉👊🏼</h1>
+<p align="center">
 <img src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
+</p>
