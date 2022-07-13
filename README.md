@@ -1,9 +1,11 @@
 <h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
-<h3 >A passionate Full-Stack developer</h3>
+<h3 align='center' >A passionate Full-Stack developer</h3>  
 
-![1_eKQmtqPla2M7ozIuUZL83g](https://user-images.githubusercontent.com/85296705/178617792-7f2ecf7a-494d-4a7b-bbcb-91b1f96cdfa8.gif)
+<img src="https://user-images.githubusercontent.com/85296705/178621074-e94d3e6e-226d-472d-b0e3-3a60827a3ccc.png" width="100%">
+
 
 ## :sassy_man:  About me
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85296705/178617792-7f2ecf7a-494d-4a7b-bbcb-91b1f96cdfa8.gif"/>
 
 - 🔭 I’m currently working on [STAY SAFE](https://www.staysaferio.me/incidents)
 
