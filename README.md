@@ -1,9 +1,7 @@
 <h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h3 >A passionate Full-Stack developer</h3>
 
-<video align="center" alt="video" width="100%" src="https://user-images.githubusercontent.com/85296705/178617048-0530fc20-d673-4135-813a-35b4106442e3.mp4"/>
-
-
+![1_eKQmtqPla2M7ozIuUZL83g](https://user-images.githubusercontent.com/85296705/178617792-7f2ecf7a-494d-4a7b-bbcb-91b1f96cdfa8.gif)
 
 ## :sassy_man:  About me
 
