@@ -4,7 +4,7 @@
 I am 25 years old, I live and work in United Kingdom. 
 I've been doing IT since I was 12, I've been creating websites for many years, now I'm actively studying web/mobile development.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85296705/178621074-e94d3e6e-226d-472d-b0e3-3a60827a3ccc.png" width="60%">
+<img src="https://user-images.githubusercontent.com/85296705/178621074-e94d3e6e-226d-472d-b0e3-3a60827a3ccc.png" width="70%">
 </p>
 
 ## :sassy_man:  About me
@@ -50,7 +50,6 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
@@ -60,7 +59,6 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 [![Ruby](https://img.shields.io/badge/-ruby-red?style=flat&logo=ruby&link=https://github.com/andrejulio072)](https://github.com/andrejulio072)
 [![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=flat&logo=rubyonrails&link=https://github.com/andrejulio072)](https://github.com/andrejulio072)
@@ -81,12 +79,9 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-</p>
 
  ### 👉 IDEs
  
