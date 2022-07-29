@@ -8,6 +8,7 @@ botaoAdicionar.addEventListener("click", function (event) {
   // cria a funcao do objeto paciente
   var paciente = obtemPacienteDoFormulario(form);
 
+  var pacienteTr = montaTr(paciente);
 
   // adiciona o paciente na tabela
   var tabela = document.querySelector("#tabela-pacientes");
@@ -16,14 +17,13 @@ botaoAdicionar.addEventListener("click", function (event) {
 });
 
 function obtemPacienteDoFormulario(form) {
-
   var paciente = {
     nome: form.nome.value,
     peso: form.peso.value,
     altura: form.altura.value,
     gordura: form.gordura.value,
-    imc: calculaImc(peso, altura)
-  }
+    imc: calculaImc(peso, altura),
+  };
 
   return paciente;
 }
@@ -31,6 +31,7 @@ function obtemPacienteDoFormulario(form) {
 function montaTr(paciente) {
   // cria a tr e a td do paciente
   var pacienteTr = document.createElement("tr");
+  pacienteTr.classList.add("paciente");
 
   var nomeTd = document.createElement("td");
   var pesoTd = document.createElement("td");
@@ -50,6 +51,5 @@ function montaTr(paciente) {
   pacienteTr.appendChild(gorduraTd);
   pacienteTr.appendChild(imcTd);
 
-
-  return pacienteTr
+  return pacienteTr;
 }
