@@ -58,8 +58,8 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/andrejulio072)](https://wordpress.org/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/andrejulio072)](https://dev.mysql.com/)
-[![Ruby](https://img.shields.io/badge/-ruby-red?style=flat&logo=ruby&link=https://github.com/andrejulio072)](https://www.ruby-lang.org/en/)
-[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=flat&logo=rubyonrails&link=https://github.com/andrejulio072)](https://rubyonrails.org/)
+[![Ruby](https://img.shields.io/badge/-ruby-CC342D?style=flat&logo=ruby&link=https://github.com/andrejulio072)](https://www.ruby-lang.org/en/)
+[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&link=https://github.com/andrejulio072)](https://rubyonrails.org/)
 
  ### 👉 Software & Tools
  
