@@ -58,29 +58,33 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/andrejulio072)](https://wordpress.org/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/andrejulio072)](https://dev.mysql.com/)
-[![Ruby](https://img.shields.io/badge/-ruby-red?style=flat&logo=ruby&link=https://github.com/andrejulio072)](https://rubyonrails.org/)
-[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=flat&logo=rubyonrails&link=https://github.com/andrejulio072)](https://github.com/andrejulio072)
+[![Ruby](https://img.shields.io/badge/-ruby-red?style=flat&logo=ruby&link=https://github.com/andrejulio072)](https://www.ruby-lang.org/en/)
+[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=flat&logo=rubyonrails&link=https://github.com/andrejulio072)](https://rubyonrails.org/)
 
  ### 👉 Software & Tools
  
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
+  &emsp;(https://git-scm.com/)
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
+  &emsp;(https://github.com/)
 	<a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  &emsp;
+  &emsp;(https://about.gitlab.com/)
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
+  &emsp;(https://www.google.co.uk/sheets/about/)
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
+  &emsp;(https://www.markdownguide.org/)
+	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  &emsp;(https://trello.com/)
+	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  &emsp;(https://www.figma.com/)
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+  &emsp;(https://stackoverflow.com/)
     <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
+  &emsp;(https://www.geeksforgeeks.org/)
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-
+(https://www.w3schools.com/whatis/whatis_json.asp)
  ### 👉 IDEs
  
 <p align="center">
