@@ -60,21 +60,21 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 
  ### 👉 Software & Tools
  
-<p align="center">
+<p text-align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a>
+	<a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?style=plastic&logo=gitlab&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/-trello-0052CC.svg?&style=for-the-badge&logo=trello&logoColor=white"></a>
+	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/-trello-0052CC.svg?style=plastic&logo=trello&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/-figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
+	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/-figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
