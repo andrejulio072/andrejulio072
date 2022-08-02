@@ -75,9 +75,9 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/-trello-0052CC.svg?&style=for-the-badge&logo=trello&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/-figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
