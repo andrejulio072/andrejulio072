@@ -10,13 +10,13 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 ## :sassy_man:  About me
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85296705/178617792-7f2ecf7a-494d-4a7b-bbcb-91b1f96cdfa8.gif"/>
 
-- 🔭 I’m currently working on [STAY SAFE](https://www.staysaferio.me/incidents)
+- 🔭 I’m currently working on [STAY SAFE](https://www.staysaferio.me/) && [Candles](https://aja-candles-candles.herokuapp.com/)
 
 - 🌱 I’m currently learning **French, Rails, Django, React and Web/Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/andrejulio072](https://troopl.com/andrejulio072)
+- 👨‍💻 All of my projects are available at [Portfolio](https://troopl.com/andrejulio072)
 
-- 💬 Ask me about **Ruby, Python, C++**
+- 💬 Ask me about **Ruby, Python, C++/C#, HTML/CSS, Javascript**
 
 - 📫 How to reach me **andrejulio072@hotmail.com**
 
