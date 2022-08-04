@@ -50,6 +50,33 @@
         <input id="no" type="radio" name="answer" value="no" required />
         <label for="no">No</label>
 
+        <label>Relative speed (ends in -er):</label>
+        <select id="speed" name="speed" required>
+          <option value="faster">Faster</option>
+          <option value="faster">Quicker</option>
+          <option value="faster">Speedier</option>
+          <option value="faster">Most Fast</option>
+          <option value="faster">Really very Fast</option>
+        </select>
+        <br />
+        <label for="quote">Motivatinal Quote</label>
+        <input
+          id="quote"
+          name="quote"
+          type="text"
+          list="quote-choices"
+          required
+        />
+        <datalist id="quote-choices">
+          <option value="winner gets ice cream!"></option>
+          <option value="Codeacademy"></option>
+          <option value="Bootcamp"></option>
+          <option value="HTML/CSS"></option>
+        </datalist>
+        <br />
+        <label for="message"> Meaningful Message </label>
+        <textarea id="message" name="message" rows="8" cols="40"></textarea>
+        <br />
         <input type="submit" value="Form My Story!" />
       </form>
     </section>
