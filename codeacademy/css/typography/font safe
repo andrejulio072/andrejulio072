@@ -1,0 +1,34 @@
+Web Fonts
+Previously, we learned about web safe fonts, a group of fonts supported across browsers and operating systems. However, the fonts you can use for your website are limitless—web fonts allow you to express your unique style through a multitude of different fonts found on the web.
+
+Free font services, like Google Fonts and Adobe Fonts, host fonts that you can link to from your HTML document with a provided <link> element.
+
+You can also use fonts from paid font distributors like fonts.com by downloading and hosting them with the rest of your site’s files. You can create a @font-face ruleset in your CSS stylesheet to link to the relative path of the font file.
+
+Both techniques for including web fonts into your site allow you to go beyond the sometimes “traditional” appearance of web safe fonts. In the next two exercises, you’ll learn exactly how to use each of these techniques!
+
+Instructions
+Explore the different example fonts shown on the right, as well as the links to font services above. When you are ready, click “Next” to learn how to use them!
+
+
+
+Web Fonts Using <link>
+Online font services, like Google Fonts, make it easy to find and link to fonts from your site. You can browse and select fonts that match the style of your website.
+
+Google Fonts Roboto Styles Page
+
+When you select a font in Google Fonts, you’ll be shown all of the different styles available for that particular font. You can then select the styles you want to use on your site.
+
+Showing Selected Font Families
+When you’re done selecting a font and its styles, you can review your selected font family, and a <link> element will be automatically generated for you to use on your site!
+
+<head>
+  <!-- Add the link element for Google Fonts along with other metadata -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+</head>
+The generated <link> element needs to be added to the <head> element in your HTML document for it to be ready to be used in your CSS.
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+You can then create font-family declarations in your CSS, just like how you learned to do with other fonts!
