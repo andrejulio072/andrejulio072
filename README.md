@@ -16,11 +16,13 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://troopl.com/andrejulio072)
 
-- 💬 Ask me about **Ruby, Python, HTML/CSS, Javascript**
+- 🦾 This is my [Resume](https://zety.com/profile/andre-garcia)
+
+- 💬 Ask me about **Ruby On Rails, Python, HTML/CSS, Javascript**
 
 - 📫 How to reach me **andrejulio072@hotmail.com**
 
-- ⚡ Fun fact **I am a book lover📖 and Bodybuilder💪🏼**
+- ⚡ Fun fact **I am a mathematician 👨🏼‍🔬, book lover📖 and Bodybuilder💪🏼**
 
 <br>
 
