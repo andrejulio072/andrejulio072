@@ -129,3 +129,4 @@ I've been doing IT since I was 12, I've been creating websites for many years, n
 <h1 align='center'> Any programmer can be a bodybuilder 😉👊🏼</h1>
 <p align="center">
 <img src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
+# stories
