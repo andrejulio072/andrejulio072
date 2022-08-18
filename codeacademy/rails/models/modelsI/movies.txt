@@ -1,0 +1,27 @@
+Movies I
+Nice work! Let’s review what we did:
+
+We added columns to the movies table and actors table
+We used the t.belongs_to methods in the parts table to add foreign keys, setting up the many-to-many relationship.
+Finally we ran the migrations to update the database, and seeded the database with the data in db/seeds.rb.
+Instructions
+1.
+Now that the models are set up, let’s move on to the rest of the request/response cycle and create the routes, controllers, and views.
+
+Generate a controller named Movies.
+
+Checkpoint 2 Passed
+2.
+In the routes file, create a new route that maps the URL /movies to the Movies controller’s index action.
+
+Checkpoint 3 Passed
+3.
+Then in the Movies controller, add the index action to display a list of all movies. To do this, fetch all movies from the database and store them in variable @movies.
+
+Checkpoint 4 Passed
+4.
+In app/views/movies/index.html.erb inside <div class=main> iterate through each movie in @movies and display the image, title, and release year.
+
+Checkpoint 5 Passed
+5.
+Run the local server and visit http://localhost:8000/movies in the browser.
