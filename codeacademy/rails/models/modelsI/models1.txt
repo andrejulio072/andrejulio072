@@ -1,0 +1,38 @@
+Models II
+What did we just do? Check out the diagram in the browser:
+
+We created three models - Movie, Actor, and Part.
+In the models, we used the has_many :through association to connect the Movie model to the Actor model through the Part model.
+In this way, the has_many :through association sets up a many-to-many relationship between movies and actors.
+
+Instructions
+1.
+Now that there’s an association between Movie and Actor, let’s continue and add columns to the migration files:
+
+Open the migration file in db/migrate/ for the movies table, and add the following columns:
+
+a string column called title
+a string column called image
+a string column called release_year
+a string column called plot
+Checkpoint 2 Passed
+2.
+Next in the migration file for the actors table, and add the following columns:
+
+a string column called first_name
+a string column called last_name
+a string column called image
+a string column called bio
+Checkpoint 3 Passed
+3.
+Then in the migration file for the parts table, add the following lines. They add foreign keys that point to the movie and actor tables.
+
+t.belongs_to :movie, index: true 
+t.belongs_to :actor, index: true 
+Checkpoint 4 Passed
+4.
+Run the migration to update the database with the three tables.
+
+Checkpoint 5 Passed
+5.
+Open up db/seeds.rb. We’ve added a few items here to seed the database with movies and actors. Run bundle exec rake db:seed to seed the database with the data in db/seeds.rb.
