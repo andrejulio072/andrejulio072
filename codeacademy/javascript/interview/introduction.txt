@@ -1,0 +1,23 @@
+Introdução
+Os aspirantes a desenvolvedores devem passar por uma entrevista técnica para serem contratados como profissionais. Essas entrevistas avaliam a capacidade do candidato de escrever código, articular seu processo de pensamento e resolver problemas em um ambiente cronometrado.
+
+As entrevistas técnicas assumem várias formas: escrever código ao lado de um funcionário da empresa, testar online com um serviço de terceiros, levar para casa desafios que duram vários dias e muito mais!
+
+Uma entrevista técnica de quadro branco exige que o entrevistado planeje e codifique a solução manualmente. O candidato depende de sua capacidade de se comunicar sem a ajuda de um editor de texto ou navegador da web.
+
+Esta lição aborda estratégias para melhorar o desempenho em uma entrevista de quadro branco. Cada exercício apresenta uma etapa da entrevista com uma demonstração em vídeo da técnica.
+
+Os passos são:
+
+Esclareça o problema
+Criar entradas
+Descreva a solução
+Codifique a solução
+Teste a solução
+Analise a Solução
+Instruções
+O quadro branco não usa um editor de texto, portanto, esta lição pedirá que você acompanhe com caneta e papel.
+
+Pegue um caderno e algo para escrever antes de seguir em frente!
+
+Observação: o instrutor nos vídeos desta lição usará Python, mas essas dicas e truques de quadro branco podem ser aplicados a qualquer outra linguagem de programação de uso geral.
