@@ -6,14 +6,14 @@ export class Profile extends React.Component {
   constructor(props) {
     super(props);
     this.state = {userData: null}
-
+  }
     loaduserData() {
       this.setState( {userData: null})
       this.fetchID = fetchUserData(this.props.username, (userData) => {
   this.setState({ userData });
 });
     }
-  }
+
 
   componentDidMount() {
     this.loadUserData()
