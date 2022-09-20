@@ -13,3 +13,15 @@ When you’re done with your if, you have to tell Ruby by typing end.
 Instructions
 1.
 Write your own if statement in the editor. It can take any expression you want (even just true!), but it should evaluate to true. When it does, it should print a string of your choice to the console (using print or puts).
+
+
+
+
+Else
+The partner to the if statement is the else statement. An if/else statement says to Ruby: “If this expression is true, run this code block; otherwise, run the code after the else statement.” Here’s an example:
+
+if 1 > 2
+  print "I won't get printed because one is less than two."
+else
+  print "That means I'll get printed!"
+end
