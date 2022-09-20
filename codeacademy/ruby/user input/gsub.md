@@ -13,3 +13,14 @@ Remember, you want the ! at the end of the method name so that Ruby will change 
 Instructions
 1.
 Remove the print statement you added to your if statement and replace it with a call to .gsub! on user_input. Have it replace /s/ with "th".
+
+
+
+
+print "Pleathe enter a thtring: "
+user_input = gets.chomp
+user_input.downcase!
+
+if user_input.include? "s"
+  user_input.gsub!(/s/, "th")
+end
