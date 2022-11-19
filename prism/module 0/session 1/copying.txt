@@ -1,0 +1,23 @@
+Welcome to the hands-on exercise. In this exercise, you need to copy, move and rename the files as per the instruction. Let's start.
+
+First, check the content of the current working directory. In the terminal, type ls and press Enter.
+ls
+Now, you need to copy a file name called "countries". However, the current working directory already has a file in the same name. You cannot have the files with the same name. So, let's first change the file name in the working directory. In the terminal, type the following command and press Enter.
+cp countries places_on_earth
+This command copied the "Countries" file as it is in the same directory with the name places_on_earth. You can confirm it using ls, and cat places_on_earth commands.
+
+Now, let's copy the countries file to a different directory, say to practice, which is inside your current working directory. In the terminal, type the following command and press Enter.
+cp countries practice
+This command copied a file with the same name to the practice directory. You can check it by going inside the practice directory using the cd practice command and run the ls command to check the files.
+
+Let’s now use the command to move the file into the practice directory. In the terminal, type the following command and press Enter.
+mv ../countries areas
+Here, mv .. helps to move the countries file from home/user/ directory to our current working directory as name "areas". Run the ls command to confirm that file is moved.
+
+mv command is also used to rename the file. In the terminal, type the following command and press Enter.
+mv areas destinations
+This command will change the file name from "areas" to "destinations".
+
+You can practice this command by changing the name of other files you have.
+
+Congratulations!! You have completed this hands-on exercise.
