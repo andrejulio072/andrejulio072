@@ -1,0 +1,19 @@
+In this hands-on exercise, you will use the redirection operator. When a redirection operator is used with a command that shows output on the terminal and writes the output in the file specified. Let us see this through an example.
+
+In the terminal, run the following command.
+ls -l
+
+We know it shows the detailed view of files in the working directory. Let's store this output in another file. Run the following command to do so.
+ls -l > output
+
+You can confirm that redirection worked completely fine by using the cat output command. The output file will be automatically created if not present or created by you.
+
+Let's practice the operator one more time:
+man ls > instructions
+This command will send the entire manual page to instructions. You can confirm the contents using the cat instructions command.
+
+( >> ) is another redirector that does pretty much the same work but adds the output at the end of the file so that previous content remains intact. Let’s practice it:
+whatis ls >> output
+Output is added at the end of output. You can confirm it using cat output command.
+
+Congratulations!! You have completed this hands-on exercise.
