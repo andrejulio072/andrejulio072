@@ -1,0 +1,116 @@
+
+
+			Human
+				Controls Machine
+
+			Machine
+				Accurate
+				24 x 7 x 365
+				Never mistek (exceptions excluded)
+				repaired / refurbished
+				faster
+				high efficiency
+				infinite loops
+				application specific
+
+				limited functionality
+
+															AI
+															Thinking
+															Emotions
+
+
+
+
+	How human thinks ?
+
+	there is one open wire
+	on signal traffic police
+
+	oral examinations
+
+
+	can we train machines		-> AI -> Nural networks
+
+
+
+
+		Human
+
+		High level Programing language		Java, Python, C++,...	(Combination of english statements)
+		Middle level Programing language	C, Assembly language
+		Low level Programing language 		(Byte code 0s 1s)
+
+		Machine (Computer -> binary machine)
+
+	Compiler	/ Interpreter
+
+
+	introduction
+	linux intro
+	web development
+		html
+		css
+		javascript
+		reactjs
+		nodejs expressjs
+		mongodb	-> local, cloud mongodb(mongodb atlas)
+		vcs (git)
+		github
+		heroku
+	datastructures
+
+
+Ubunto
+	1. vmware workstation
+	2. Virtual box	Oracle
+
+
+
+virtual box
+https://www.virtualbox.org/wiki/Downloads
+
+
+
+vmware windows
+https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html
+
+vmware mac
+https://www.vmware.com/in/products/fusion/fusion-evaluation.html
+
+
+Ubuntu
+https://ubuntu.com/download/desktop/thank-you?version=22.04.1&architecture=amd64
+
+
+Linux commands
+1. ls
+The ls command is used to list files and directories in the current working directory
+
+2. pwd
+The pwd command allows you to print the current working directory on your terminal
+
+3. cd
+Change directory
+	cd <name_of_directory>	-> to switch to particular directory
+	cd ..					-> go one directory up
+
+4. mkdir
+The mkdir command allows you to create directories from within the terminal
+	mkdir <name_of_directory>
+
+5. touch
+touch command is used to create a file
+	touch <name_of_file>.<extension>
+
+6. cp copy files and folders
+	cp <source> <destination>
+
+7. mv move files and folders
+	mv <source> <destination>
+
+8. rm
+	rm <name_of_file> 			-> deletes files
+	rm -r <name_of_directory>	-> deletes directory
+
+	
