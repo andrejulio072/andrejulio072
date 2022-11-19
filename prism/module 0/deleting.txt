@@ -1,0 +1,27 @@
+In this hands-on exercise, you need to delete the files and directories as per the instructions.
+
+First and foremost, check the content of the current directory. In the terminal, type ls and press Enter.
+ls
+Here, you can see some files and directories. Let's first delete the unwanted file "subjects". To delete this file, in the terminal, type the following command and press Enter.
+rm subjects
+This command directly deletes a file. You can confirm it using the ls command.
+
+Sometimes, we delete the file by mistake, so let's see an option with rm that asks us whether we want to delete a file or not.
+
+Type the following command and press Enter.
+rm -i classes
+If you use this rm -i command, it asks a confirmation message before it deletes the files. You can now type 'y' for yes or 'n' for no, in return for confirmation. You can confirm the removal of the file with the ls command.
+
+Let's now delete a directory. Let's first create a new directory and then delete it.
+
+Use the following command to create an empty directory.
+mkdir importantNotes
+Let's now delete this empty directory using the following command.
+rmdir importantNotes
+The directory is deleted now. You can directly remove an empty directory; what if a directory has some content?
+
+If a directly has content such as files and sub-folders, then it is prudent to use the rm command with the -r option which stands for recursive deletion.
+
+So, go ahead and execute the following command to remove the contents folder which has some files inside.
+rm -r contents
+That's it! You've just learned to delete files and directories.
