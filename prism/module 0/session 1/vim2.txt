@@ -1,0 +1,35 @@
+In this hands-on exercise, you will use some more functions of the vim editor.
+
+First, go into the practice directory by using the following command.
+cd practice
+In the terminal, type ls and press Enter to see the contents of the practice folder.
+ls
+Open 'prototype1' using the following command.
+vim prototype1
+ You can see the content of files using the cat command. Now, you are in command mode. Change your state to insertion mode by:
+pressing 'i'.
+Let's first see how to copy and paste the content within the file.
+
+Press cc keys to copy one line. To copy multiple lines, type number and then cc like 8cc, this command copies 8 lines.
+
+To paste the copied content, press the p key.
+
+What if you want to delete the wrong content in the file? Say, for example, type rainy and sunny. These are not seasons. So now you need to delete these lines.
+
+To delete a line in the file, place the cursor on the line and press dd.
+
+This command will delete the line your cursor is onto right now.
+
+To undo the last change, press u key.
+
+What if you entered the wrong content and don’t want to save the file?
+
+There are two ways to doing this. Change from insertion to command mode by pressing the ESC key and use any of the following commands.
+:q! -
+ This command will exit the file without saving all changes you made this time.
+:w! prototype2
+ This command will not save the changes in the original file i.e... prototype1, instead it will make a new file and save it there with the name you suggested after w!.
+
+Practice all commands and then simply type q! to quit without saving. So the file remains the same for next time practice.
+
+Congratulations! You have now completed this hands-on exercise.
