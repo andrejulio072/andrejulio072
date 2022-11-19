@@ -1,0 +1,35 @@
+In this hands-on exercise, you will use vim editor with its functions.
+
+First, let's check the content in the working directory. In the terminal, type the following command and press Enter.
+ls
+Before you proceed further, you need to check whether the vim editor is installed on the system or not and if it is installed which version of it. To check it, in the terminal, type the following command and press Enter.
+vim --version
+vim editor is installed in this system; hence you could see the version number on your screen.
+
+Let’s make a directory 'practice', where you need to save all the files for practice. Type the following command and press Enter.
+mkdir practice
+ To get inside the 'practice' directory, use the following command:
+cd practice
+ Creating a file is very easy using the vim editor. Just type the following command and press Enter.
+vim prototype1.txt
+ The command above will create a text file, and you will enter into editor mode.
+
+Now what you see is vim editor, right now we are in command mode. Let's get into insertion mode to enter some season names into the file.
+Press ‘i’
+Now you are in insertion mode, the last line of the editor confirms it.
+
+Add some names of seasons one by one like autumn, spring, summer, winter, in each line of the file. You can move from one line to the next by pressing the Enter key.
+
+Once you are done with adding all lines. Press the ESC key to come back to command mode. Now, type :w to save the file.
+:w
+You have now successfully saved the file.
+
+You can now see that the editor's last line tells us the total number of lines and words in the file.
+
+If you wish to save and exit the file simultaneously, you have to use the following command.
+:wq
+Now you are finally back to the terminal.
+
+Type ls command to confirm that 'prototype1' file is created. To view the saved content in the file, type the following command and press Enter.
+cat prototype1.txt
+ Congratulations! You have completed this hands-on exercise.
