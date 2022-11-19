@@ -1,0 +1,23 @@
+In this hands-on exercise, you will practice how to use the nano editor.
+
+First, check the content of the working directory.
+ls
+ Now, let's go into the practice directory by using the following command.
+cd practice
+ nano is an easy-to-use command line text editor for Linux operating systems. It includes all the basic functionality you would expect from a vim editor. To launch the nano editor, type the following command in the editor and press Enter.
+nano
+ You will see a little easy and graphic-based interface.
+
+There are many options given at the bottom of the screen.
+
+^ symbol means you have to press ctrl before pressing any alphabet to execute the commands written after them.
+
+In the editor space, you can write any content. To save the file, press Ctrl + O.
+Ctrl + O
+It will prompt you to write a file name in your current directory. Type the file name, say prototype1 or give a new name. Now you have created a new file using the nano editor. So simple, is it?
+
+Similarly, editing a file using the nano editor is also easy. Type the following command to open the file in the nano editor.
+nano prototype1
+ This will open the file in the nano editor, and now you can edit the file as you want. All the other commands also work same as vim editor.
+
+Congratulations!! You have completed this hands-on exercise.
