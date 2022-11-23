@@ -2,6 +2,7 @@
 <h3 align='center' >A passionate Full-Stack developer</h3> 
 
 I am a junior full-stack developer from Spain/Brazil, combining extensive experience working military and in customer-focused roles. I have spent five years commanding large military troops which taught me a lot about teamwork, communication, and motivation. Having finished intensive coding bootcamp, I canʼt wait to bring my diverse experience and drive to learn to an ambitious software team.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/85296705/178621074-e94d3e6e-226d-472d-b0e3-3a60827a3ccc.png" width="70%">
 </p>
