@@ -1,0 +1,13 @@
+Grid Rows
+Rows are the horizontal lines on a grid. Think of rows as invisible boxes that group content together by height. Rows are commonly used in web designs to group content together and re-order other content to allow for more whitespace.
+
+For example, let’s say you have a set of items that all span the same amount of columns and you want them to align across the page without being disrupted by other elements. One way to achieve this outcome is to wrap the content in a row component. This will force any content, not inside of the row, to be pushed away.
+
+Again, remember that a row can be used to force content away from an area that has remaining columns not used. What does this mean? Great question.
+
+Let’s say our design uses a 12 column grid and we want one element to span seven columns. That means we still have five unfilled columns to either the left or the right side. Naturally, any new content added to our document will try and fill this unused space. However, by placing a row element around our component that spans 7 columns we can force any new content to start beneath our component and leave the remaining 5 columns empty.
+
+Instructions
+Check out the diagram to the right. Notice how the row wraps around the different components like a box.
+
+Also, note how it forces content that is not within the box below it. For instance, in the first row, the logo, the gutter, and the navigation bar span the entirety of the first row. Therefore, the next element must go in the second row.
