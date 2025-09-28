@@ -1,130 +1,110 @@
-<h1 align="center">Hello! Welcome to my Profile💪🏼 👋, I'm Andre Garcia</h1>
-<h3 align='center' >A passionate Full-Stack developer</h3>
+<h1 align="center">👋 Hello World, I'm Andre Garcia 💪🏼</h1>
+<h3 align="center">Full-Stack Developer | Tech Enthusiast | Bodybuilder | Ex-Military</h3>
 
-I am a junior full-stack developer from Spain/Brazil, combining extensive experience working military and in customer-focused roles. I have spent five years commanding large military troops which taught me a lot about teamwork, communication, and motivation. Having finished intensive coding bootcamp, I canʼt wait to bring my diverse experience and drive to learn to an ambitious software team.
+---
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85296705/178621074-e94d3e6e-226d-472d-b0e3-3a60827a3ccc.png" width="70%">
+  <img src="https://user-images.githubusercontent.com/85296705/178621074-e94d3e6e-226d-472d-b0e3-3a60827a3ccc.png" width="80%" />
 </p>
 
-## :sassy_man: About me
+---
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85296705/178617792-7f2ecf7a-494d-4a7b-bbcb-91b1f96cdfa8.gif"/>
+## 🧑‍🚀 Who am I?
 
-- 🔭 I’m currently working on [STAY SAFE](https://www.staysaferio.me/) && [Candles](https://aja-candles-candles.herokuapp.com/)
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85296705/178617792-7f2ecf7a-494d-4a7b-bbcb-91b1f96cdfa8.gif" width="300"/>
 
-- 🌱 I’m currently learning **French, Rails, Django, React and Web/Mobile Development**
+- 🌍 A mix of **Spain 🇪🇸 + Brazil 🇧🇷** currently based in **Ireland 🇮🇪**  
+- 🪖 Served **5 years in the Brazilian Air Force** → learned discipline, resilience & leadership  
+- 💻 Became a **Full-Stack Developer** after completing an intensive coding bootcamp  
+- 🏋🏼‍♂️ Spent +10 years bodybuilding → discipline from the gym fuels my coding  
+- 🏙️ Spent **4 years in London**:  
+  - Worked in tough environments (gyms, hospitality, security)  
+  - Built my career as a **Personal Trainer → Manager → Developer**  
+  - Learned resilience, communication & how to reinvent myself from zero  
+- 🎯 Mission: build impactful projects that **combine technology, design & human motivation**  
+- ⚡ Fun fact: *I debug code with the same patience I use to do squats at 5 a.m.*  
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://troopl.com/andrejulio072)
+---
 
-- 🦾 This is my [Resume](https://zety.com/profile/andre-garcia)
+## 🎨 A Bit of Humor
 
-- 💬 Ask me about **Ruby On Rails, Python, HTML/CSS, Javascript**
+> *Any programmer can be a bodybuilder 😉👊🏼*  
+> But not every bodybuilder can debug JavaScript at 2 a.m. 🖥️💥  
 
-- 📫 How to reach me **andrejulio072@hotmail.com**
+Yes, I do **lift weights** and **lift bugs** at the same time.  
+If your project needs **clean code & clean reps**, I’m your guy.  
 
-- ⚡ Fun fact **I am a mathematician 👨🏼‍🔬, book lover📖 and Bodybuilder💪🏼**
+---
 
-<br>
+## 🛠️ Tech Arsenal
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+### 🚀 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)  
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github)  
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+
+### 💻 IDEs & Workflow  
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
+![Sublime](https://img.shields.io/badge/Sublime-FF9800?style=flat&logo=sublime-text&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)  
+
+---
+
+## 🏆 Projects that Define Me  
+
+🔗 [**STAY SAFE**](https://www.staysaferio.me/) → Safety awareness & community project  
+🔗 [**Candles Store**](https://aja-candles-candles.herokuapp.com/) → Full-stack eCommerce project  
+🔗 [**Garcia Builder**](https://andrejulio072.github.io/Garcia-Builder/) → My personal **fitness + tech journey**  
+
+👉 See all in my [Portfolio](https://troopl.com/andrejulio072)
+
+---
+
+## 📈 GitHub Stats  
 
 <p align="center">
-	<a href="mailto:andrenjulio072@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/andrejulio072"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/447597689690"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/andrejulio072/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/andrejulio072/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrejulio072&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 🛠️ My Skills
-
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-### 👨‍💻 Languages and Tools
-
-<br />
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/andrejulio072)](https://www.javascript.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/andrejulio072)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/andrejulio072)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/andrejulio072)](https://getbootstrap.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/andrejulio072)](https://www.heroku.com/)
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/andrejulio072)](https://jquery.com/)
-
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/andrejulio072)](https://nodejs.org/en/)
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/andrejulio072)](https://wordpress.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/andrejulio072)](https://dev.mysql.com/)
-
-[![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&link=https://github.com/andrejulio072)](https://rubyonrails.org/)
-
-### 👉 Software & Tools
-
-<p text-align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-	<a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?style=plastic&logo=gitlab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-	<a href="#"><img alt="Trello" src="https://img.shields.io/badge/-trello-0052CC.svg?style=plastic&logo=trello&logoColor=white"></a>
-  &emsp;
-	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/-figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-
- ### 👉 IDEs
-
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-&emsp;
-    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-black?style=flat&logo=sublimetext&link=https://github.com/andrejulio072)](https://github.com/andrejulio072)" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrejulio072&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejulio072&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 👉 Competitive Programming & Problem Solving
+---
+
+## 🌍 Connect with Me  
 
 <p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+  <a href="mailto:andrenjulio072@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/andrejulio072"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/andrejulio072/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/andrejulio072/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/447597689690"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-### 👉 Operating Systems
+---
+
+## ⚡ Final Note  
+
+> “Resilience, discipline and creativity — that’s what I bring from my journey in the military,  
+> from 4 years surviving & growing in London, and from years building strength in the gym.  
+> Now, I put all of that into code.”  
 
 <p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  <img src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
 </p>
-
-<br/>
-
-<h1 align='center'> Any programmer can be a bodybuilder 😉👊🏼</h1>
-<p align="center">
-<img src="https://i.redd.it/93h2cc04ypm51.jpg" width="70%"/>
-# stories
