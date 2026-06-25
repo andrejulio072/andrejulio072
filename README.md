@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,45:111111,100:F7C845&text=Andre%20Garcia&fontColor=ffffff&fontSize=56&fontAlignY=37&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Bodybuilder%20%7C%20Ex-Military&descAlignY=58&animation=fadeIn" alt="Andre Garcia profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,45:111111,100:F7C845&text=Andre%20Garcia&fontColor=ffffff&fontSize=58&fontAlignY=37&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Bodybuilder%20%7C%20Ex-Military&descAlignY=58&animation=fadeIn" alt="Andre Garcia profile banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=950&color=F7C845&center=true&vCenter=true&width=1050&lines=I+debug+code+like+it%27s+heavy+leg+day.;Computer+Science+at+Maynooth+University.;Building+Garcia+Builder+Fitness+App.;Clean+code.+Heavy+lifts.+No+excuses.;I+lift+weights%2C+bugs%2C+state+and+occasionally+production+errors." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F7C845&center=true&vCenter=true&width=1050&lines=I+debug+code+like+it%27s+heavy+leg+day.;Computer+Science+at+Maynooth+University.;Building+Garcia+Builder+Fitness+App.;Clean+code.+Heavy+lifts.+No+excuses.;I+lift+weights%2C+bugs%2C+state+and+occasionally+production+errors." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,22 +18,26 @@
   <b>📍 Based in Ireland</b> • <b>🎓 Maynooth University</b> • <b>📱 Building Garcia Builder Fitness App</b>
 </p>
 
+---
+
 ## ⚙️ My Build System
 
-<p align="center">
-  <img src="./assets/visual-code-lift-v4.svg" alt="Animated visual combining code and lifting" width="100%" />
-</p>
+```txt
+CODE  → logic, structure, problem solving
+LIFT  → discipline, consistency, progressive overload
+BUILD → software, body, mindset, systems
+```
 
 **Code. Lift. Build.**  
 Logic under pressure. Discipline in reps. Systems that work.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1100&color=F7C845&center=true&vCenter=true&width=950&lines=npm+run+discipline;git+commit+-m+%22another+rep+another+refactor%22;404%3A+motivation+not+found.+Discipline+loaded.;production+bug+detected.+Progressive+overload+the+brain." alt="Terminal typing animation" />
+</p>
+
 ---
 
 ## 🧬 Complete Bio
-
-<p align="center">
-  <img src="./assets/visual-journey-v4.svg" alt="Animated journey visual" width="100%" />
-</p>
 
 I am **Andre Garcia**, a **Computer Science student at Maynooth University**, **Full-Stack Developer**, **online fitness coach**, **bodybuilder**, and **former Brazilian Air Force cadet** currently based in **Ireland 🇮🇪**.
 
@@ -68,7 +72,8 @@ Current mission        → merge technology, health and human performance
 ## 🎓 Computer Science at Maynooth University
 
 <p align="center">
-  <img src="./assets/visual-cs-v4.svg" alt="Animated computer science visual" width="100%" />
+  <img src="https://img.shields.io/badge/Maynooth_University-Computer_Science-F7C845?style=for-the-badge&logo=academia&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering-111111?style=for-the-badge&logo=github&logoColor=F7C845" />
 </p>
 
 I am currently strengthening my academic base in **Computer Science / Computer Engineering at Maynooth University**. This is where I am sharpening the theory behind the execution: programming, logic, algorithms, systems thinking, mathematics and problem solving.
@@ -89,7 +94,8 @@ My goal is not just to build apps that work. My goal is to understand systems de
 ## 📱 Garcia Builder Fitness App
 
 <p align="center">
-  <img src="./assets/visual-app-v4.svg" alt="Animated app development visual" width="100%" />
+  <img src="https://img.shields.io/badge/Current_Build-Garcia_Builder_Fitness_App-F7C845?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stage-MVP_Planning-111111?style=for-the-badge&logo=figma&logoColor=F7C845" />
 </p>
 
 I am currently developing the idea and structure for the **Garcia Builder Fitness App**, a project that connects my fitness coaching experience with my software development journey.
@@ -185,10 +191,6 @@ Saturday   Cardio + deployment anxiety
 Sunday     Rest day... just kidding, README improvements
 ```
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=git+commit+-m+%22trained+chest+and+fixed+navbar%22;git+push+origin+discipline;404%3A+motivation+not+found.+Discipline+loaded.;npm+install+protein+creatine+discipline;Error%3A+CSS+refused+to+center.+Trying+again." alt="Funny terminal typing" />
-</p>
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -230,7 +232,14 @@ Sunday     Rest day... just kidding, README improvements
 
 ---
 
-## 🧠 What I Bring to Software
+## 🏆 Achievement System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Science-Maynooth-F7C845?style=for-the-badge&logo=academia&logoColor=black" />
+  <img src="https://img.shields.io/badge/Military_Discipline-Brazilian_Air_Force-111111?style=for-the-badge&logo=target&logoColor=F7C845" />
+  <img src="https://img.shields.io/badge/Bodybuilding-10%2B_Years-F7C845?style=for-the-badge&logo=weights&logoColor=black" />
+  <img src="https://img.shields.io/badge/Builder_Mode-Always_On-111111?style=for-the-badge&logo=github&logoColor=F7C845" />
+</p>
 
 ```txt
 I do not only bring code.
@@ -241,16 +250,6 @@ I bring pressure management from gym operations.
 I bring theory from Computer Science.
 I bring execution from rebuilding my life more than once.
 ```
-
-The goal is simple: build things that are useful, clean, practical and hard to ignore.
-
----
-
-## 🏆 Achievement System
-
-<p align="center">
-  <img src="./assets/visual-achievement-v4.svg" alt="Animated achievement visual" width="100%" />
-</p>
 
 ---
 
