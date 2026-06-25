@@ -1,0 +1,61 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.58" stop-color="#111111"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blurGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @keyframes pulse { 0%,100% { opacity: .4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+      @keyframes dash { to { stroke-dashoffset: -520; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .route { stroke-dasharray: 14 18; animation: dash 9s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
+  <circle cx="1030" cy="110" r="210" fill="url(#glow)" opacity="0.14"/>
+  <circle cx="125" cy="430" r="135" fill="url(#glow)" opacity="0.08"/>
+
+  <text x="72" y="105" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="4">JOURNEY</text>
+  <text x="72" y="205" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900">Built Through</text>
+  <text x="72" y="295" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="900">Pressure</text>
+
+  <path id="road" d="M145 395 C320 320 455 455 610 385 C770 310 890 325 1055 380" stroke="#F7C845" stroke-width="9" stroke-linecap="round" opacity="0.28"/>
+  <path class="route" d="M145 395 C320 320 455 455 610 385 C770 310 890 325 1055 380" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+
+  <circle r="13" fill="#ffffff" filter="url(#blurGlow)">
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#road"/>
+    </animateMotion>
+  </circle>
+
+  <g>
+    <circle class="pulse" cx="145" cy="395" r="38" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="119" y="405" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900">BR</text>
+    <text x="105" y="470" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">Brazil</text>
+  </g>
+  <g>
+    <circle class="pulse" cx="420" cy="390" r="38" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="394" y="400" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900">ES</text>
+    <text x="380" y="470" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">Spain</text>
+  </g>
+  <g>
+    <circle class="pulse" cx="690" cy="358" r="38" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="662" y="368" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900">UK</text>
+    <text x="640" y="470" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">London</text>
+  </g>
+  <g>
+    <circle class="pulse" cx="1055" cy="380" r="38" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="1030" y="390" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900">IE</text>
+    <text x="1005" y="470" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">Ireland</text>
+  </g>
+</svg>
