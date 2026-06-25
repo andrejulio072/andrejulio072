@@ -1,0 +1,52 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.56" stop-color="#101010"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes pulse { 0%,100% { opacity: .45; transform: scale(1); } 50% { opacity: 1; transform: scale(1.06); } }
+      @keyframes dash { to { stroke-dashoffset: -420; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .dash { stroke-dasharray: 16 16; animation: dash 8s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="42" fill="url(#bg)"/>
+  <circle cx="1040" cy="110" r="185" fill="url(#glow)" opacity="0.12"/>
+  <circle cx="130" cy="360" r="110" fill="url(#glow)" opacity="0.07"/>
+
+  <text x="72" y="95" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">ACHIEVEMENT SYSTEM</text>
+  <text x="72" y="176" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900">Built from different arenas.</text>
+
+  <path class="dash" d="M135 285 H1065" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+
+  <g transform="translate(105 245)">
+    <circle class="pulse" cx="60" cy="60" r="54" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="28" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">CS</text>
+    <text x="10" y="155" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">Maynooth</text>
+  </g>
+
+  <g transform="translate(365 245)">
+    <circle class="pulse" cx="60" cy="60" r="54" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="24" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">MIL</text>
+    <text x="18" y="155" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">Military</text>
+  </g>
+
+  <g transform="translate(625 245)">
+    <circle class="pulse" cx="60" cy="60" r="54" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="24" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">FIT</text>
+    <text x="12" y="155" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">Fitness</text>
+  </g>
+
+  <g transform="translate(885 245)">
+    <circle class="pulse" cx="60" cy="60" r="54" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="8" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="900">CODE</text>
+    <text x="25" y="155" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">Build</text>
+  </g>
+</svg>
