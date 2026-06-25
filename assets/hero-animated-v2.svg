@@ -1,0 +1,64 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#101010"/>
+      <stop offset="1" stop-color="#2B2208"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#F7C845" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes floatA { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-18px); } }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      @keyframes dash { to { stroke-dashoffset: -420; } }
+      @keyframes scan { 0% { transform: translateX(-260px); opacity: 0; } 18% { opacity: .85; } 82% { opacity: .85; } 100% { transform: translateX(760px); opacity: 0; } }
+      .float { animation: floatA 4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; }
+      .dash { stroke-dasharray: 18 18; animation: dash 7s linear infinite; }
+      .scan { animation: scan 4.5s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="44" fill="url(#grid)" opacity="0.7"/>
+  <circle cx="1030" cy="95" r="210" fill="url(#glow)" opacity="0.18"/>
+  <circle cx="150" cy="430" r="150" fill="url(#glow)" opacity="0.08"/>
+
+  <g class="scan">
+    <rect x="110" y="84" width="160" height="344" rx="20" fill="#F7C845" opacity="0.07"/>
+  </g>
+
+  <path class="dash" d="M74 350 H760" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M74 370 H510" stroke="#F7C845" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+
+  <text x="72" y="105" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="4">MY BUILD SYSTEM</text>
+  <text x="72" y="205" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900">CODE. LIFT.</text>
+  <text x="72" y="295" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900">BUILD.</text>
+  <text x="76" y="415" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Logic under pressure. Discipline in reps. Systems that work.</text>
+
+  <g transform="translate(840 145)" class="float" filter="url(#softGlow)">
+    <rect x="78" y="102" width="210" height="28" rx="14" fill="#F7C845"/>
+    <rect x="38" y="72" width="54" height="88" rx="16" fill="#F7C845"/>
+    <rect x="274" y="72" width="54" height="88" rx="16" fill="#F7C845"/>
+    <path d="M74 216 L26 260 L74 304" stroke="#F7C845" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M292 216 L340 260 L292 304" stroke="#F7C845" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M190 212 L150 308" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+    <circle class="pulse" cx="184" cy="126" r="78" fill="none" stroke="#F7C845" stroke-width="4" opacity="0.55"/>
+  </g>
+
+  <circle class="pulse" cx="805" cy="90" r="7" fill="#F7C845"/>
+  <circle class="pulse" cx="1090" cy="390" r="9" fill="#F7C845"/>
+  <circle class="pulse" cx="725" cy="435" r="5" fill="#F7C845"/>
+</svg>
