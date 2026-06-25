@@ -1,0 +1,33 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.62" stop-color="#111111"/>
+      <stop offset="1" stop-color="#241D08"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes dash { to { stroke-dashoffset:-560; } }
+      @keyframes pulse { 0%,100% { opacity:.35; transform:scale(1); } 50% { opacity:1; transform:scale(1.08); } }
+      .route { stroke-dasharray:14 18; animation: dash 8s linear infinite; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; transform-box:fill-box; transform-origin:center; }
+    </style>
+  </defs>
+  <rect width="1200" height="280" rx="34" fill="url(#bg)"/>
+  <circle cx="1060" cy="60" r="160" fill="url(#glow)" opacity="0.13"/>
+  <circle cx="130" cy="245" r="110" fill="url(#glow)" opacity="0.08"/>
+  <path id="road" d="M105 180 C250 75 390 235 525 140 C650 52 790 230 920 130 C1010 62 1070 100 1110 76" stroke="#F7C845" stroke-width="11" stroke-linecap="round" opacity="0.25"/>
+  <path class="route" d="M105 180 C250 75 390 235 525 140 C650 52 790 230 920 130 C1010 62 1070 100 1110 76" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.9"/>
+  <circle r="13" fill="#FFFFFF">
+    <animateMotion dur="7s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#road"/>
+    </animateMotion>
+  </circle>
+  <circle class="pulse" cx="105" cy="180" r="32" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+  <circle class="pulse" cx="390" cy="195" r="32" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+  <circle class="pulse" cx="695" cy="155" r="32" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+  <circle class="pulse" cx="1110" cy="76" r="32" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+</svg>
