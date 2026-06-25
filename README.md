@@ -22,14 +22,26 @@
 
 ## ⚙️ My Build System
 
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+### Code. Lift. Build.
+
 ```txt
 CODE  → logic, structure, problem solving
 LIFT  → discipline, consistency, progressive overload
 BUILD → software, body, mindset, systems
 ```
 
-**Code. Lift. Build.**  
 Logic under pressure. Discipline in reps. Systems that work.
+
+</td>
+<td width="42%" valign="middle">
+  <img src="./assets/visual-code-lift-v4.svg" alt="Code and lifting animation" width="100%" />
+</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1100&color=F7C845&center=true&vCenter=true&width=950&lines=npm+run+discipline;git+commit+-m+%22another+rep+another+refactor%22;404%3A+motivation+not+found.+Discipline+loaded.;production+bug+detected.+Progressive+overload+the+brain." alt="Terminal typing animation" />
@@ -39,11 +51,22 @@ Logic under pressure. Discipline in reps. Systems that work.
 
 ## 🧬 Complete Bio
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 I am **Andre Garcia**, a **Computer Science student at Maynooth University**, **Full-Stack Developer**, **online fitness coach**, **bodybuilder**, and **former Brazilian Air Force cadet** currently based in **Ireland 🇮🇪**.
 
 My story is not a straight line. It is more like a Git history with hard resets, brutal refactors, painful debugging sessions and a few commits that absolutely should have been reviewed twice.
 
 I grew up between **Brazil 🇧🇷 and Spain 🇪🇸**, served **5 years in the Brazilian Air Force**, rebuilt my life in **London**, worked in gyms, hospitality, security and management, completed a full-stack coding bootcamp, and now I am developing a stronger technical foundation through **Computer Science at Maynooth University**.
+
+</td>
+<td width="40%" valign="middle">
+  <img src="./assets/visual-journey-v4.svg" alt="Animated journey route" width="100%" />
+</td>
+  </tr>
+</table>
 
 What makes my path unusual is exactly what makes it useful. I do not come into software only from syntax and tutorials. I come from discipline, pressure, leadership, bodybuilding, coaching, customer problems, people management and the ability to keep moving when motivation is gone.
 
@@ -71,9 +94,12 @@ Current mission        → merge technology, health and human performance
 
 ## 🎓 Computer Science at Maynooth University
 
-<p align="center">
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+<p>
   <img src="https://img.shields.io/badge/Maynooth_University-Computer_Science-F7C845?style=for-the-badge&logo=academia&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Software_Engineering-111111?style=for-the-badge&logo=github&logoColor=F7C845" />
 </p>
 
 I am currently strengthening my academic base in **Computer Science / Computer Engineering at Maynooth University**. This is where I am sharpening the theory behind the execution: programming, logic, algorithms, systems thinking, mathematics and problem solving.
@@ -89,11 +115,22 @@ My goal is not just to build apps that work. My goal is to understand systems de
 - Mathematics for computing
 - Software engineering foundations
 
+</td>
+<td width="42%" valign="middle">
+  <img src="./assets/visual-cs-v4.svg" alt="Animated computer science visual" width="100%" />
+</td>
+  </tr>
+</table>
+
 ---
 
 ## 📱 Garcia Builder Fitness App
 
-<p align="center">
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
+<p>
   <img src="https://img.shields.io/badge/Current_Build-Garcia_Builder_Fitness_App-F7C845?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Stage-MVP_Planning-111111?style=for-the-badge&logo=figma&logoColor=F7C845" />
 </p>
@@ -101,6 +138,13 @@ My goal is not just to build apps that work. My goal is to understand systems de
 I am currently developing the idea and structure for the **Garcia Builder Fitness App**, a project that connects my fitness coaching experience with my software development journey.
 
 The goal is to build more than a basic workout tracker. I want to create a coaching platform that helps people follow training, nutrition and behaviour change with more clarity, accountability and structure.
+
+</td>
+<td width="42%" valign="middle">
+  <img src="./assets/visual-app-v4.svg" alt="Animated app development visual" width="100%" />
+</td>
+  </tr>
+</table>
 
 ### What I want the app to solve
 
@@ -234,12 +278,9 @@ Sunday     Rest day... just kidding, README improvements
 
 ## 🏆 Achievement System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer_Science-Maynooth-F7C845?style=for-the-badge&logo=academia&logoColor=black" />
-  <img src="https://img.shields.io/badge/Military_Discipline-Brazilian_Air_Force-111111?style=for-the-badge&logo=target&logoColor=F7C845" />
-  <img src="https://img.shields.io/badge/Bodybuilding-10%2B_Years-F7C845?style=for-the-badge&logo=weights&logoColor=black" />
-  <img src="https://img.shields.io/badge/Builder_Mode-Always_On-111111?style=for-the-badge&logo=github&logoColor=F7C845" />
-</p>
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
 ```txt
 I do not only bring code.
@@ -250,6 +291,13 @@ I bring pressure management from gym operations.
 I bring theory from Computer Science.
 I bring execution from rebuilding my life more than once.
 ```
+
+</td>
+<td width="42%" valign="middle">
+  <img src="./assets/visual-achievement-v4.svg" alt="Animated achievement visual" width="100%" />
+</td>
+  </tr>
+</table>
 
 ---
 
