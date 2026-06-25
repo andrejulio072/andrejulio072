@@ -1,0 +1,42 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06111F"/>
+      <stop offset="0.58" stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes float { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+      @keyframes draw { 0% { stroke-dashoffset: 480; } 60%,100% { stroke-dashoffset: 0; } }
+      @keyframes pulse { 0%,100% { opacity:.35; } 50% { opacity:1; } }
+      .float { animation: float 3.8s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      .draw { stroke-dasharray:480; animation: draw 4.5s ease-in-out infinite; }
+      .pulse { animation: pulse 2.1s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="1200" height="260" rx="36" fill="url(#bg)"/>
+  <circle cx="1010" cy="80" r="155" fill="url(#glow)" opacity="0.13"/>
+  <circle cx="150" cy="225" r="105" fill="url(#glow)" opacity="0.08"/>
+  <g transform="translate(110 45)" class="float">
+    <rect x="0" y="0" width="330" height="170" rx="28" fill="#0A0A0A" stroke="#F7C845" stroke-width="5"/>
+    <circle cx="38" cy="34" r="8" fill="#F7C845"/>
+    <circle cx="68" cy="34" r="8" fill="#F7C845" opacity=".55"/>
+    <circle cx="98" cy="34" r="8" fill="#F7C845" opacity=".32"/>
+    <path class="draw" d="M42 78 H285 M42 112 H240 M42 146 H295" stroke="#F7C845" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(520 60)">
+    <path d="M0 70 H100 C150 70 150 5 205 5 H290" stroke="#F7C845" stroke-width="6" stroke-linecap="round" opacity="0.82"/>
+    <path d="M0 130 H120 C160 130 170 170 225 170 H330" stroke="#F7C845" stroke-width="6" stroke-linecap="round" opacity="0.42"/>
+    <circle class="pulse" cx="0" cy="70" r="10" fill="#F7C845"/>
+    <circle class="pulse" cx="290" cy="5" r="10" fill="#F7C845"/>
+    <circle class="pulse" cx="330" cy="170" r="10" fill="#F7C845"/>
+  </g>
+  <g transform="translate(930 45)" class="float">
+    <rect x="0" y="0" width="170" height="170" rx="34" fill="#0B0B0B" stroke="#F7C845" stroke-width="5"/>
+    <path d="M50 82 L78 110 L122 54" stroke="#F7C845" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
