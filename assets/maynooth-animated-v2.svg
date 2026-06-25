@@ -1,0 +1,41 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06111F"/>
+      <stop offset="0.58" stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes float { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-14px); } }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      .float { animation: float 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; }
+      .draw { stroke-dasharray: 520; stroke-dashoffset: 520; animation: draw 5s ease-in-out infinite alternate; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
+  <circle cx="1020" cy="105" r="190" fill="url(#glow)" opacity="0.12"/>
+  <circle cx="150" cy="440" r="120" fill="url(#glow)" opacity="0.07"/>
+
+  <text x="72" y="105" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" letter-spacing="4">ACADEMIC BASE</text>
+  <text x="72" y="205" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="900">Maynooth</text>
+  <text x="72" y="295" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="900">Computer Science</text>
+  <text x="76" y="415" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Java. Logic. Systems. Software Engineering.</text>
+
+  <g transform="translate(830 120)" class="float">
+    <rect x="0" y="0" width="280" height="210" rx="28" fill="#0A0A0A" stroke="#F7C845" stroke-width="5"/>
+    <circle cx="36" cy="34" r="8" fill="#F7C845" opacity="0.95"/>
+    <circle cx="64" cy="34" r="8" fill="#F7C845" opacity="0.55"/>
+    <circle cx="92" cy="34" r="8" fill="#F7C845" opacity="0.35"/>
+    <path class="draw" d="M42 82 H238 M42 122 H200 M42 162 H228" stroke="#F7C845" stroke-width="11" stroke-linecap="round"/>
+    <path d="M35 250 C90 205 155 300 235 240" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+    <circle class="pulse" cx="35" cy="250" r="10" fill="#F7C845"/>
+    <circle class="pulse" cx="235" cy="240" r="10" fill="#F7C845"/>
+  </g>
+</svg>
