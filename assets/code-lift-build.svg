@@ -1,45 +1,23 @@
-<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="600" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050505"/>
-      <stop offset="0.55" stop-color="#101010"/>
-      <stop offset="1" stop-color="#2A2108"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFE89A"/>
-      <stop offset="1" stop-color="#F7C845"/>
+      <stop offset="0.55" stop-color="#111111"/>
+      <stop offset="1" stop-color="#2B2208"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="600" rx="40" fill="url(#bg)"/>
-  <circle cx="1030" cy="85" r="170" fill="#F7C845" opacity="0.08"/>
-  <circle cx="130" cy="545" r="180" fill="#F7C845" opacity="0.05"/>
-  <text x="70" y="88" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">MY BUILD SYSTEM</text>
-  <text x="70" y="148" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900">CODE. LIFT. BUILD.</text>
-  <g transform="translate(70 210)">
-    <rect width="320" height="300" rx="32" fill="#0E0E0E" stroke="#F7C845" stroke-width="4"/>
-    <path d="M124 124 L82 160 L124 196" stroke="#F7C845" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M196 124 L238 160 L196 196" stroke="#F7C845" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M174 112 L146 208" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
-    <text x="66" y="250" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900">CODE</text>
-    <text x="66" y="280" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">logic under pressure</text>
-  </g>
-  <g transform="translate(440 210)">
-    <rect width="320" height="300" rx="32" fill="#0E0E0E" stroke="#F7C845" stroke-width="4"/>
-    <rect x="62" y="132" width="196" height="24" rx="12" fill="#F7C845"/>
-    <rect x="36" y="102" width="34" height="84" rx="12" fill="url(#gold)"/>
-    <rect x="250" y="102" width="34" height="84" rx="12" fill="url(#gold)"/>
-    <rect x="82" y="114" width="24" height="60" rx="10" fill="#ffffff" opacity="0.88"/>
-    <rect x="214" y="114" width="24" height="60" rx="10" fill="#ffffff" opacity="0.88"/>
-    <text x="76" y="250" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900">LIFT</text>
-    <text x="76" y="280" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">discipline in reps</text>
-  </g>
-  <g transform="translate(810 210)">
-    <rect width="320" height="300" rx="32" fill="#0E0E0E" stroke="#F7C845" stroke-width="4"/>
-    <rect x="103" y="74" width="114" height="160" rx="24" fill="#111" stroke="#F7C845" stroke-width="8"/>
-    <rect x="126" y="112" width="68" height="14" rx="7" fill="#F7C845"/>
-    <rect x="126" y="144" width="68" height="14" rx="7" fill="#ffffff" opacity="0.7"/>
-    <rect x="126" y="176" width="46" height="14" rx="7" fill="#ffffff" opacity="0.45"/>
-    <text x="64" y="250" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="900">BUILD</text>
-    <text x="64" y="280" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">systems that work</text>
+  <rect width="1200" height="420" rx="38" fill="url(#bg)"/>
+  <circle cx="1035" cy="80" r="185" fill="#F7C845" opacity="0.08"/>
+  <circle cx="115" cy="355" r="120" fill="#F7C845" opacity="0.05"/>
+  <path d="M74 318 H1126" stroke="#F7C845" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <text x="72" y="104" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">MY BUILD SYSTEM</text>
+  <text x="72" y="200" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">CODE. LIFT. BUILD.</text>
+  <text x="76" y="260" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Logic under pressure. Discipline in reps. Systems that work.</text>
+  <g transform="translate(940 178)">
+    <rect x="52" y="26" width="128" height="18" rx="9" fill="#F7C845"/>
+    <rect x="16" y="7" width="42" height="56" rx="12" fill="#F7C845"/>
+    <rect x="174" y="7" width="42" height="56" rx="12" fill="#F7C845"/>
+    <path d="M36 100 L74 132 L112 100" stroke="#F7C845" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M196 100 L158 132 L120 100" stroke="#F7C845" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 </svg>
