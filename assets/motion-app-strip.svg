@@ -1,0 +1,52 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.6" stop-color="#121212"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @keyframes float { 0%,100% { transform: translateY(0px); } 50% { transform: translateY(-12px); } }
+      @keyframes fillA { 0%,100% { width: 60px; } 50% { width: 130px; } }
+      @keyframes fillB { 0%,100% { width: 130px; } 50% { width: 76px; } }
+      @keyframes dash { to { stroke-dashoffset: -460; } }
+      @keyframes pulse { 0%,100% { opacity:.35; transform:scale(1); } 50% { opacity:1; transform:scale(1.08); } }
+      .float { animation: float 3.8s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      .barA { animation: fillA 3s ease-in-out infinite; }
+      .barB { animation: fillB 3.5s ease-in-out infinite; }
+      .dash { stroke-dasharray:14 18; animation: dash 7s linear infinite; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+    </style>
+  </defs>
+  <rect width="1200" height="260" rx="36" fill="url(#bg)"/>
+  <circle cx="1020" cy="80" r="160" fill="url(#glow)" opacity="0.13"/>
+  <circle cx="145" cy="222" r="110" fill="url(#glow)" opacity="0.08"/>
+  <path class="dash" d="M120 132 H1080" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.65"/>
+  <g transform="translate(135 28)" class="float" filter="url(#softGlow)">
+    <rect x="0" y="0" width="145" height="205" rx="34" fill="#080808" stroke="#F7C845" stroke-width="6"/>
+    <rect x="26" y="30" width="93" height="145" rx="22" fill="#171717"/>
+    <circle cx="73" cy="63" r="27" fill="#F7C845"/>
+    <path d="M61 64 L70 74 L89 51" stroke="#050505" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect class="barA" x="45" y="108" width="60" height="12" rx="6" fill="#F7C845"/>
+    <rect class="barB" x="45" y="136" width="82" height="12" rx="6" fill="#777"/>
+  </g>
+  <g transform="translate(410 70)">
+    <circle class="pulse" cx="0" cy="60" r="16" fill="#F7C845"/>
+    <circle class="pulse" cx="180" cy="60" r="16" fill="#F7C845"/>
+    <circle class="pulse" cx="360" cy="60" r="16" fill="#F7C845"/>
+    <circle class="pulse" cx="540" cy="60" r="16" fill="#F7C845"/>
+    <path d="M16 60 H164 M196 60 H344 M376 60 H524" stroke="#F7C845" stroke-width="6" stroke-linecap="round" opacity="0.55"/>
+  </g>
+  <g transform="translate(945 60)" class="float">
+    <rect x="0" y="0" width="150" height="120" rx="28" fill="#0B0B0B" stroke="#F7C845" stroke-width="5"/>
+    <path d="M40 82 H110 M40 58 H110 M40 34 H110" stroke="#F7C845" stroke-width="11" stroke-linecap="round"/>
+  </g>
+</svg>
