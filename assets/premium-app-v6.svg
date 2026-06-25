@@ -1,0 +1,54 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#101010"/>
+      <stop offset="1" stop-color="#2B2208"/>
+    </linearGradient>
+    <radialGradient id="goldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="rightClip"><rect x="720" y="0" width="480" height="520" rx="38"/></clipPath>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0 L0 0 0 42" stroke="#F7C845" stroke-opacity="0.055" stroke-width="1" fill="none"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+      @keyframes pulse { 0%,100% { opacity:.38; transform:scale(1); } 50% { opacity:1; transform:scale(1.08); } }
+      @keyframes fillA { 0%,100% { width:72px; } 50% { width:142px; } }
+      @keyframes fillB { 0%,100% { width:132px; } 50% { width:84px; } }
+      .float { animation: float 4s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      .pulse { animation: pulse 2.3s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      .barA { animation: fillA 3s ease-in-out infinite; }
+      .barB { animation: fillB 3.5s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="44" fill="url(#grid)"/>
+  <circle cx="1010" cy="120" r="220" fill="url(#goldGlow)" opacity="0.16"/>
+  <circle cx="130" cy="430" r="135" fill="url(#goldGlow)" opacity="0.08"/>
+  <path d="M72 438 H680" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+  <text x="72" y="105" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">CURRENT BUILD</text>
+  <text x="72" y="180" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">GARCIA BUILDER</text>
+  <text x="72" y="256" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">FITNESS APP</text>
+  <text x="76" y="365" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Training · Nutrition · Check-ins</text>
+  <text x="76" y="407" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Behaviour change with accountability.</text>
+  <g clip-path="url(#rightClip)">
+    <g transform="translate(850 75)" class="float" filter="url(#glow)">
+      <rect x="0" y="0" width="235" height="340" rx="46" fill="#080808" stroke="#F7C845" stroke-width="7"/>
+      <rect x="35" y="44" width="165" height="252" rx="29" fill="#171717"/>
+      <circle cx="118" cy="94" r="42" fill="#F7C845"/>
+      <path d="M100 96 L114 110 L140 78" stroke="#050505" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect class="barA" x="64" y="160" width="72" height="16" rx="8" fill="#F7C845"/>
+      <rect class="barB" x="64" y="198" width="132" height="16" rx="8" fill="#777777"/>
+      <rect x="64" y="236" width="104" height="16" rx="8" fill="#777777" opacity="0.75"/>
+    </g>
+    <g transform="translate(760 190)">
+      <path d="M38 0 C0 55 16 120 75 160" stroke="#F7C845" stroke-width="4" opacity="0.45" stroke-linecap="round"/>
+      <circle class="pulse" cx="38" cy="0" r="11" fill="#F7C845"/>
+      <circle class="pulse" cx="75" cy="160" r="8" fill="#F7C845"/>
+    </g>
+  </g>
+</svg>
