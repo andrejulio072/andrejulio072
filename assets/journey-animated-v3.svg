@@ -1,0 +1,54 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.58" stop-color="#111111"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+    <radialGradient id="goldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes pulse { 0%,100% { opacity:.45; transform:scale(1); } 50% { opacity:1; transform:scale(1.08); } }
+      @keyframes dash { to { stroke-dashoffset:-520; } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      .route { stroke-dasharray:14 18; animation: dash 9s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="500" rx="44" fill="url(#bg)"/>
+  <circle cx="1020" cy="100" r="205" fill="url(#goldGlow)" opacity="0.13"/>
+  <circle cx="135" cy="405" r="140" fill="url(#goldGlow)" opacity="0.07"/>
+
+  <text x="70" y="96" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">JOURNEY</text>
+  <text x="70" y="188" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="900">Built Through</text>
+  <text x="70" y="272" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="900">Pressure.</text>
+  <text x="74" y="380" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Brazil → Spain → London → Ireland</text>
+
+  <g transform="translate(805 95)">
+    <path id="road" d="M35 280 C110 190 185 328 265 245 C320 190 350 205 385 160" stroke="#F7C845" stroke-width="10" stroke-linecap="round" opacity="0.25"/>
+    <path class="route" d="M35 280 C110 190 185 328 265 245 C320 190 350 205 385 160" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.95"/>
+    <circle r="12" fill="#ffffff">
+      <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#road"/>
+      </animateMotion>
+    </circle>
+    <g>
+      <circle class="pulse" cx="35" cy="280" r="34" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+      <text x="12" y="290" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="900">BR</text>
+    </g>
+    <g>
+      <circle class="pulse" cx="145" cy="245" r="34" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+      <text x="122" y="255" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="900">ES</text>
+    </g>
+    <g>
+      <circle class="pulse" cx="265" cy="245" r="34" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+      <text x="239" y="255" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="900">UK</text>
+    </g>
+    <g>
+      <circle class="pulse" cx="385" cy="160" r="34" fill="#0D0D0D" stroke="#F7C845" stroke-width="5"/>
+      <text x="362" y="170" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="900">IE</text>
+    </g>
+  </g>
+</svg>
