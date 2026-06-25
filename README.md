@@ -187,9 +187,7 @@ Sunday     Rest day... just kidding, README improvements
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrejulio072&theme=tokyo-night&hide_border=true" alt="Andre's GitHub activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrejulio072/andrejulio072/output/snake.svg" alt="Snake contribution animation" />
-</p>
+<!-- Snake contribution animation can be enabled after adding a GitHub Actions workflow that generates output/snake.svg. -->
 
 ---
 
