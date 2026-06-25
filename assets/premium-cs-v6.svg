@@ -1,0 +1,47 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#101010"/>
+      <stop offset="1" stop-color="#2B2208"/>
+    </linearGradient>
+    <radialGradient id="goldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#F7C845" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#F7C845" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="rightClip"><rect x="720" y="0" width="480" height="520" rx="38"/></clipPath>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0 L0 0 0 42" stroke="#F7C845" stroke-opacity="0.055" stroke-width="1" fill="none"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-14px); } }
+      @keyframes pulse { 0%,100% { opacity:.38; transform:scale(1); } 50% { opacity:1; transform:scale(1.08); } }
+      @keyframes dash { to { stroke-dashoffset:-520; } }
+      .float { animation: float 4s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      .pulse { animation: pulse 2.3s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+      .dash { stroke-dasharray:16 18; animation: dash 8s linear infinite; }
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="44" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="44" fill="url(#grid)"/>
+  <circle cx="1010" cy="120" r="220" fill="url(#goldGlow)" opacity="0.16"/>
+  <circle cx="130" cy="430" r="135" fill="url(#goldGlow)" opacity="0.08"/>
+  <path d="M72 438 H680" stroke="#F7C845" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+  <text x="72" y="105" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">ACADEMIC BASE</text>
+  <text x="72" y="165" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900">MAYNOOTH</text>
+  <text x="72" y="233" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900">COMPUTER</text>
+  <text x="72" y="301" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900">SCIENCE</text>
+  <text x="76" y="382" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Java · Logic · Systems</text>
+  <text x="76" y="424" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Software engineering foundations.</text>
+  <g clip-path="url(#rightClip)">
+    <g transform="translate(805 105)" class="float" filter="url(#glow)">
+      <rect x="0" y="0" width="335" height="250" rx="32" fill="#0A0A0A" stroke="#F7C845" stroke-width="5"/>
+      <circle cx="42" cy="40" r="8" fill="#F7C845"/><circle cx="72" cy="40" r="8" fill="#F7C845" opacity=".55"/><circle cx="102" cy="40" r="8" fill="#F7C845" opacity=".32"/>
+      <path class="dash" d="M50 98 H285 M50 145 H235 M50 192 H292" stroke="#F7C845" stroke-width="12" stroke-linecap="round"/>
+      <path d="M40 300 C105 245 180 342 280 268" stroke="#F7C845" stroke-width="6" stroke-linecap="round" opacity=".78"/>
+      <circle class="pulse" cx="40" cy="300" r="10" fill="#F7C845"/>
+      <circle class="pulse" cx="280" cy="268" r="10" fill="#F7C845"/>
+    </g>
+  </g>
+</svg>
