@@ -1,0 +1,52 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.6" stop-color="#151515"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE89A"/>
+      <stop offset="1" stop-color="#F7C845"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="36" fill="url(#bg)"/>
+  <circle cx="1010" cy="115" r="180" fill="#F7C845" opacity="0.08"/>
+  <circle cx="1060" cy="310" r="105" fill="#F7C845" opacity="0.08"/>
+
+  <g transform="translate(74 70)">
+    <text x="0" y="36" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">CURRENT BUILD</text>
+    <text x="0" y="88" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="900">Garcia Builder Fitness App</text>
+    <text x="0" y="128" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="22">A coaching system for training, nutrition, progress tracking, check-ins and real behaviour change.</text>
+
+    <g transform="translate(0 170)">
+      <rect x="0" y="0" width="220" height="54" rx="18" fill="#111" stroke="#F7C845" stroke-width="2"/>
+      <text x="22" y="34" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Client dashboard</text>
+      <rect x="240" y="0" width="210" height="54" rx="18" fill="#111" stroke="#F7C845" stroke-width="2"/>
+      <text x="262" y="34" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Habit tracking</text>
+      <rect x="470" y="0" width="230" height="54" rx="18" fill="#111" stroke="#F7C845" stroke-width="2"/>
+      <text x="492" y="34" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Coach check-ins</text>
+    </g>
+
+    <g transform="translate(0 246)">
+      <rect x="0" y="0" width="248" height="54" rx="18" fill="#F7C845"/>
+      <text x="24" y="34" fill="#050505" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900">fitness + tech + psychology</text>
+      <rect x="268" y="0" width="275" height="54" rx="18" fill="#111" stroke="#F7C845" stroke-width="2"/>
+      <text x="292" y="34" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">MVP under development</text>
+    </g>
+  </g>
+
+  <g transform="translate(830 50)">
+    <rect x="0" y="0" width="250" height="330" rx="38" fill="#090909" stroke="#F7C845" stroke-width="5"/>
+    <rect x="26" y="26" width="198" height="278" rx="28" fill="#151515"/>
+    <circle cx="125" cy="64" r="30" fill="url(#gold)"/>
+    <path d="M110 67 L121 78 L143 50" stroke="#050505" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="55" y="119" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800">Today&apos;s Plan</text>
+    <rect x="45" y="142" width="160" height="18" rx="9" fill="#F7C845" opacity="0.95"/>
+    <rect x="45" y="174" width="135" height="18" rx="9" fill="#666"/>
+    <rect x="45" y="206" width="148" height="18" rx="9" fill="#666"/>
+    <rect x="45" y="246" width="160" height="38" rx="14" fill="#F7C845"/>
+    <text x="73" y="271" fill="#050505" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="900">CHECK IN</text>
+  </g>
+</svg>
