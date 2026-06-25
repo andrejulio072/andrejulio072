@@ -1,43 +1,23 @@
-<svg width="1200" height="560" viewBox="0 0 1200 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="560" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050505"/>
       <stop offset="0.6" stop-color="#121212"/>
       <stop offset="1" stop-color="#2A2108"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFE89A"/>
-      <stop offset="1" stop-color="#F7C845"/>
-    </linearGradient>
   </defs>
-
-  <rect width="1200" height="560" rx="42" fill="url(#bg)"/>
-  <circle cx="1040" cy="120" r="190" fill="#F7C845" opacity="0.08"/>
-  <circle cx="1060" cy="450" r="125" fill="#F7C845" opacity="0.06"/>
-
-  <text x="72" y="86" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" letter-spacing="3">CURRENT BUILD</text>
-  <text x="72" y="160" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900">Garcia Builder</text>
-  <text x="72" y="228" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="900">Fitness App</text>
-  <text x="76" y="278" fill="#d6d6d6" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Training. Nutrition. Check-ins. Behaviour.</text>
-
-  <g transform="translate(72 340)">
-    <rect x="0" y="0" width="220" height="74" rx="22" fill="#F7C845"/>
-    <text x="34" y="47" fill="#050505" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900">MVP</text>
-
-    <rect x="250" y="0" width="255" height="74" rx="22" fill="#0D0D0D" stroke="#F7C845" stroke-width="3"/>
-    <text x="282" y="47" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900">COACHING</text>
-
-    <rect x="535" y="0" width="255" height="74" rx="22" fill="#0D0D0D" stroke="#F7C845" stroke-width="3"/>
-    <text x="567" y="47" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900">PROGRESS</text>
-  </g>
-
-  <g transform="translate(870 110)">
-    <rect x="0" y="0" width="220" height="330" rx="42" fill="#080808" stroke="#F7C845" stroke-width="6"/>
-    <rect x="35" y="38" width="150" height="254" rx="28" fill="#171717"/>
-    <circle cx="110" cy="88" r="42" fill="url(#gold)"/>
-    <path d="M92 90 L106 104 L132 72" stroke="#050505" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-    <rect x="60" y="154" width="100" height="16" rx="8" fill="#F7C845"/>
-    <rect x="60" y="190" width="100" height="16" rx="8" fill="#777777"/>
-    <rect x="60" y="226" width="100" height="16" rx="8" fill="#777777"/>
+  <rect width="1200" height="420" rx="38" fill="url(#bg)"/>
+  <circle cx="1020" cy="105" r="170" fill="#F7C845" opacity="0.08"/>
+  <circle cx="1100" cy="360" r="100" fill="#F7C845" opacity="0.06"/>
+  <path d="M74 318 H1126" stroke="#F7C845" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <text x="72" y="104" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">CURRENT BUILD</text>
+  <text x="72" y="192" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="900">Garcia Builder</text>
+  <text x="72" y="274" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="900">Fitness App</text>
+  <g transform="translate(930 125)">
+    <rect x="0" y="0" width="170" height="220" rx="36" fill="#0A0A0A" stroke="#F7C845" stroke-width="6"/>
+    <circle cx="85" cy="62" r="34" fill="#F7C845"/>
+    <path d="M70 63 L82 75 L103 48" stroke="#050505" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="45" y="120" width="80" height="14" rx="7" fill="#F7C845"/>
+    <rect x="45" y="150" width="80" height="14" rx="7" fill="#777"/>
   </g>
 </svg>
