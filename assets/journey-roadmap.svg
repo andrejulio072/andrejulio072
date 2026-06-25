@@ -1,37 +1,43 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#050505"/>
       <stop offset="0.6" stop-color="#121212"/>
-      <stop offset="1" stop-color="#201A08"/>
+      <stop offset="1" stop-color="#2A2108"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="420" rx="34" fill="url(#bg)"/>
-  <text x="70" y="58" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900">JOURNEY SNAPSHOT</text>
-  <text x="70" y="105" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="900">From military discipline to software systems</text>
-  <path d="M120 250 C250 170 360 170 480 250 C600 330 710 330 840 250 C950 183 1030 183 1110 210" stroke="#F7C845" stroke-width="8" stroke-linecap="round" stroke-dasharray="10 16"/>
-  <g>
-    <circle cx="150" cy="250" r="34" fill="#111" stroke="#F7C845" stroke-width="6"/>
-    <text x="126" y="258" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900">BR</text>
-    <text x="90" y="318" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Brazil</text>
-    <text x="66" y="344" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="16">Military roots</text>
+
+  <rect width="1200" height="520" rx="42" fill="url(#bg)"/>
+  <circle cx="1020" cy="120" r="180" fill="#F7C845" opacity="0.07"/>
+  <circle cx="1070" cy="445" r="130" fill="#F7C845" opacity="0.05"/>
+
+  <text x="72" y="86" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" letter-spacing="3">JOURNEY</text>
+  <text x="72" y="164" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="900">Built Through Pressure</text>
+  <text x="76" y="216" fill="#d6d6d6" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600">Military. London. Maynooth. Software.</text>
+
+  <path d="M145 360 H1055" stroke="#F7C845" stroke-width="8" stroke-linecap="round"/>
+
+  <g transform="translate(90 300)">
+    <circle cx="55" cy="60" r="48" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="25" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">BR</text>
+    <text x="0" y="150" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">Brazil</text>
   </g>
-  <g>
-    <circle cx="420" cy="210" r="34" fill="#111" stroke="#F7C845" stroke-width="6"/>
-    <text x="397" y="218" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900">ES</text>
-    <text x="365" y="278" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Spain</text>
-    <text x="337" y="304" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="16">Growth and adaptation</text>
+
+  <g transform="translate(350 300)">
+    <circle cx="55" cy="60" r="48" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="25" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">ES</text>
+    <text x="8" y="150" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">Spain</text>
   </g>
-  <g>
-    <circle cx="720" cy="290" r="34" fill="#111" stroke="#F7C845" stroke-width="6"/>
-    <text x="655" y="298" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900">UK</text>
-    <text x="655" y="358" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">London</text>
-    <text x="602" y="384" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="16">Rebuild, work, coach, code</text>
+
+  <g transform="translate(620 300)">
+    <circle cx="55" cy="60" r="48" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="22" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">UK</text>
+    <text x="-12" y="150" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">London</text>
   </g>
-  <g>
-    <circle cx="1030" cy="230" r="34" fill="#111" stroke="#F7C845" stroke-width="6"/>
-    <text x="1007" y="238" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="900">IE</text>
-    <text x="992" y="298" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Ireland</text>
-    <text x="910" y="324" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="16">Maynooth CS + app building</text>
+
+  <g transform="translate(895 300)">
+    <circle cx="55" cy="60" r="48" fill="#0D0D0D" stroke="#F7C845" stroke-width="6"/>
+    <text x="27" y="72" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900">IE</text>
+    <text x="-10" y="150" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900">Ireland</text>
   </g>
 </svg>
