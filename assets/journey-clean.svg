@@ -1,0 +1,17 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.6" stop-color="#121212"/>
+      <stop offset="1" stop-color="#2A2108"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="38" fill="url(#bg)"/>
+  <circle cx="1020" cy="100" r="175" fill="#F7C845" opacity="0.08"/>
+  <circle cx="120" cy="360" r="105" fill="#F7C845" opacity="0.05"/>
+  <path d="M74 318 H1126" stroke="#F7C845" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <text x="72" y="104" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">JOURNEY</text>
+  <text x="72" y="195" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900">Built Through</text>
+  <text x="72" y="276" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="900">Pressure</text>
+  <text x="72" y="360" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900">Brazil → Spain → London → Ireland</text>
+</svg>
