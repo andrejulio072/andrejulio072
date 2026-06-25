@@ -1,0 +1,19 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#19150A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="32" fill="url(#bg)"/>
+  <rect x="50" y="44" width="1100" height="272" rx="24" fill="#0C0C0C" stroke="#F7C845" stroke-width="3"/>
+  <circle cx="90" cy="82" r="8" fill="#FF5F57"/>
+  <circle cx="116" cy="82" r="8" fill="#FEBC2E"/>
+  <circle cx="142" cy="82" r="8" fill="#28C840"/>
+  <text x="175" y="89" fill="#F7C845" font-family="Courier New, monospace" font-size="18">andre@github ~/developer-gym</text>
+  <text x="86" y="140" fill="#d7d7d7" font-family="Courier New, monospace" font-size="28">$ whoami</text>
+  <text x="86" y="176" fill="#F7C845" font-family="Courier New, monospace" font-size="24">Computer Science student | Full-Stack Developer | Bodybuilder</text>
+  <text x="86" y="222" fill="#d7d7d7" font-family="Courier New, monospace" font-size="28">$ npm run discipline</text>
+  <text x="86" y="258" fill="#F7C845" font-family="Courier New, monospace" font-size="24">Compiling mindset... building habits... fixing bugs...</text>
+  <text x="86" y="304" fill="#d7d7d7" font-family="Courier New, monospace" font-size="28">$ git commit -m &quot;another rep, another refactor&quot;</text>
+</svg>
