@@ -18,21 +18,21 @@
   <b>📍 Based in Ireland</b> • <b>🎓 Maynooth University</b> • <b>📱 Building Garcia Builder Fitness App</b>
 </p>
 
-## 🏗️ My Build System
+## ⚙️ My Build System
+
+<p align="center">
+  <img src="./assets/visual-code-lift-v4.svg" alt="Animated visual combining code and lifting" width="100%" />
+</p>
 
 **Code. Lift. Build.**  
 Logic under pressure. Discipline in reps. Systems that work.
-
-<p align="center">
-  <img src="./assets/motion-build-strip.svg" alt="Animated build system strip" width="100%" />
-</p>
 
 ---
 
 ## 🧬 Complete Bio
 
 <p align="center">
-  <img src="./assets/motion-journey-strip.svg" alt="Animated journey strip" width="100%" />
+  <img src="./assets/visual-journey-v4.svg" alt="Animated journey visual" width="100%" />
 </p>
 
 I am **Andre Garcia**, a **Computer Science student at Maynooth University**, **Full-Stack Developer**, **online fitness coach**, **bodybuilder**, and **former Brazilian Air Force cadet** currently based in **Ireland 🇮🇪**.
@@ -68,7 +68,7 @@ Current mission        → merge technology, health and human performance
 ## 🎓 Computer Science at Maynooth University
 
 <p align="center">
-  <img src="./assets/motion-cs-strip.svg" alt="Animated computer science strip" width="100%" />
+  <img src="./assets/visual-cs-v4.svg" alt="Animated computer science visual" width="100%" />
 </p>
 
 I am currently strengthening my academic base in **Computer Science / Computer Engineering at Maynooth University**. This is where I am sharpening the theory behind the execution: programming, logic, algorithms, systems thinking, mathematics and problem solving.
@@ -89,7 +89,7 @@ My goal is not just to build apps that work. My goal is to understand systems de
 ## 📱 Garcia Builder Fitness App
 
 <p align="center">
-  <img src="./assets/motion-app-strip.svg" alt="Animated Garcia Builder Fitness App strip" width="100%" />
+  <img src="./assets/visual-app-v4.svg" alt="Animated app development visual" width="100%" />
 </p>
 
 I am currently developing the idea and structure for the **Garcia Builder Fitness App**, a project that connects my fitness coaching experience with my software development journey.
@@ -249,7 +249,7 @@ The goal is simple: build things that are useful, clean, practical and hard to i
 ## 🏆 Achievement System
 
 <p align="center">
-  <img src="./assets/achievement-animated.svg" alt="Animated achievement system visual" width="100%" />
+  <img src="./assets/visual-achievement-v4.svg" alt="Animated achievement visual" width="100%" />
 </p>
 
 ---
