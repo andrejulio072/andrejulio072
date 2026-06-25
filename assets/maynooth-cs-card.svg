@@ -1,41 +1,36 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#07111F"/>
-      <stop offset="0.55" stop-color="#0E0E0E"/>
-      <stop offset="1" stop-color="#F7C845"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFE89A"/>
-      <stop offset="1" stop-color="#F7C845"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06111F"/>
+      <stop offset="0.58" stop-color="#0D0D0D"/>
+      <stop offset="1" stop-color="#2A2108"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" rx="32" fill="url(#bg)"/>
-  <circle cx="1050" cy="70" r="110" fill="#000" opacity="0.18"/>
-  <circle cx="1020" cy="240" r="70" fill="#000" opacity="0.18"/>
+  <rect width="1200" height="500" rx="42" fill="url(#bg)"/>
+  <circle cx="1020" cy="110" r="175" fill="#F7C845" opacity="0.08"/>
+  <circle cx="1060" cy="420" r="105" fill="#F7C845" opacity="0.06"/>
 
-  <g transform="translate(70 58)">
-    <text x="0" y="35" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900">ACADEMIC BASE</text>
-    <text x="0" y="92" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="900">Computer Science at Maynooth University</text>
-    <text x="0" y="134" fill="#d6d6d6" font-family="Arial, Helvetica, sans-serif" font-size="22">Building the theory behind the execution: algorithms, programming, logic, systems and problem solving.</text>
+  <text x="72" y="86" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="900" letter-spacing="3">ACADEMIC BASE</text>
+  <text x="72" y="168" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900">Maynooth</text>
+  <text x="72" y="244" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="900">Computer Science</text>
+  <text x="76" y="300" fill="#d6d6d6" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600">Theory behind better software.</text>
 
-    <g transform="translate(0 176)">
-      <rect x="0" y="0" width="178" height="48" rx="16" fill="#111" stroke="#F7C845" stroke-width="2"/>
-      <text x="25" y="31" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Java</text>
-      <rect x="198" y="0" width="178" height="48" rx="16" fill="#111" stroke="#F7C845" stroke-width="2"/>
-      <text x="223" y="31" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Algorithms</text>
-      <rect x="396" y="0" width="178" height="48" rx="16" fill="#111" stroke="#F7C845" stroke-width="2"/>
-      <text x="421" y="31" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Systems</text>
-      <rect x="594" y="0" width="178" height="48" rx="16" fill="#111" stroke="#F7C845" stroke-width="2"/>
-      <text x="619" y="31" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Logic</text>
-    </g>
+  <g transform="translate(72 355)">
+    <rect x="0" y="0" width="180" height="72" rx="22" fill="#F7C845"/>
+    <text x="44" y="46" fill="#050505" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900">JAVA</text>
+
+    <rect x="210" y="0" width="210" height="72" rx="22" fill="#0D0D0D" stroke="#F7C845" stroke-width="3"/>
+    <text x="246" y="46" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900">LOGIC</text>
+
+    <rect x="450" y="0" width="230" height="72" rx="22" fill="#0D0D0D" stroke="#F7C845" stroke-width="3"/>
+    <text x="486" y="46" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900">SYSTEMS</text>
   </g>
 
-  <g transform="translate(925 75)">
-    <rect x="0" y="0" width="160" height="120" rx="22" fill="#0B0B0B" stroke="#F7C845" stroke-width="4"/>
-    <path d="M28 38 H132 M28 62 H110 M28 86 H92" stroke="#F7C845" stroke-width="8" stroke-linecap="round"/>
-    <rect x="32" y="140" width="96" height="14" rx="7" fill="url(#gold)"/>
-    <rect x="50" y="154" width="60" height="20" rx="10" fill="url(#gold)"/>
+  <g transform="translate(900 145)">
+    <rect x="0" y="0" width="190" height="145" rx="25" fill="#0B0B0B" stroke="#F7C845" stroke-width="5"/>
+    <path d="M42 48 H148 M42 76 H128 M42 104 H110" stroke="#F7C845" stroke-width="10" stroke-linecap="round"/>
+    <rect x="50" y="178" width="92" height="18" rx="9" fill="#F7C845"/>
+    <rect x="72" y="196" width="50" height="45" rx="12" fill="#F7C845" opacity="0.9"/>
   </g>
 </svg>
