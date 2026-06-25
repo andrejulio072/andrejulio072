@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/code-lift-build.svg" alt="Code Lift Build custom visual" width="100%" />
+  <img src="./assets/hero-clean.svg" alt="Code Lift Build visual" width="100%" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🧬 Complete Bio
 
 <p align="center">
-  <img src="./assets/journey-roadmap.svg" alt="Journey roadmap" width="100%" />
+  <img src="./assets/journey-clean.svg" alt="Journey visual" width="100%" />
 </p>
 
 I am **Andre Garcia**, a **Computer Science student at Maynooth University**, **Full-Stack Developer**, **online fitness coach**, **bodybuilder**, and **former Brazilian Air Force cadet** currently based in **Ireland 🇮🇪**.
@@ -63,7 +63,7 @@ Current mission        → merge technology, health and human performance
 ## 🎓 Computer Science at Maynooth University
 
 <p align="center">
-  <img src="./assets/maynooth-cs-card.svg" alt="Computer Science at Maynooth University" width="100%" />
+  <img src="./assets/maynooth-clean.svg" alt="Computer Science at Maynooth University" width="100%" />
 </p>
 
 I am currently strengthening my academic base in **Computer Science / Computer Engineering at Maynooth University**. This is where I am sharpening the theory behind the execution: programming, logic, algorithms, systems thinking, mathematics and problem solving.
@@ -84,7 +84,7 @@ My goal is not just to build apps that work. My goal is to understand systems de
 ## 📱 Garcia Builder Fitness App
 
 <p align="center">
-  <img src="./assets/garcia-builder-app.svg" alt="Garcia Builder Fitness App visual" width="100%" />
+  <img src="./assets/app-clean.svg" alt="Garcia Builder Fitness App visual" width="100%" />
 </p>
 
 I am currently developing the idea and structure for the **Garcia Builder Fitness App**, a project that connects my fitness coaching experience with my software development journey.
@@ -151,10 +151,6 @@ while (alive) {
   }
 }
 ```
-
-<p align="center">
-  <img src="./assets/terminal-chaos.svg" alt="Developer terminal humor card" width="100%" />
-</p>
 
 ### Gym life translated into developer life
 
