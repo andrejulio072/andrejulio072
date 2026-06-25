@@ -1,0 +1,16 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#111111"/>
+      <stop offset="1" stop-color="#2B2208"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="38" fill="url(#bg)"/>
+  <circle cx="1035" cy="80" r="185" fill="#F7C845" opacity="0.08"/>
+  <circle cx="115" cy="355" r="120" fill="#F7C845" opacity="0.05"/>
+  <path d="M74 318 H1126" stroke="#F7C845" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <text x="72" y="104" fill="#F7C845" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="4">MY BUILD SYSTEM</text>
+  <text x="72" y="200" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="900">CODE. LIFT. BUILD.</text>
+  <text x="76" y="260" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Logic under pressure. Discipline in reps. Systems that work.</text>
+</svg>
