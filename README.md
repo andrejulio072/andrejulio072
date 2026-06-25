@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:F7C845&text=Andre%20Garcia&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Bodybuilder%20%7C%20Ex-Military&descAlignY=58&animation=fadeIn" alt="Andre Garcia profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,45:1a1a1a,100:F7C845&text=Andre%20Garcia&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Bodybuilder%20%7C%20Ex-Military%20%7C%20Bug%20Hunter&descAlignY=58&animation=fadeIn" alt="Andre Garcia profile banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C845&center=true&vCenter=true&width=900&lines=I+build+software+with+discipline%2C+logic+and+execution.;Full-Stack+Developer+%7C+Bodybuilder+%7C+Ex-Military;Clean+code.+Strong+systems.+Relentless+execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=950&color=F7C845&center=true&vCenter=true&width=1000&lines=I+debug+code+like+it%27s+heavy+leg+day.;Clean+code.+Heavy+lifts.+No+excuses.;Full-Stack+Developer+with+a+military+mindset.;I+lift+weights%2C+bugs%2C+state+and+occasionally+production+errors." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andrejulio072&style=for-the-badge&color=F7C845&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Status-Building%20Stronger%20Systems-F7C845?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mindset-Discipline%20Over%20Motivation-000000?style=for-the-badge&logo=target&logoColor=F7C845" />
 </p>
 
 <p align="center">
@@ -18,21 +24,22 @@
 
 ## 🧬 Who am I?
 
-<img align="right" src="https://github.com/andrejulio072.png" width="220" alt="Andre Garcia GitHub avatar" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coding animation" />
 
 I am **Andre Garcia**, a **Full-Stack Developer**, **bodybuilder**, and **former Brazilian Air Force cadet** currently based in **Ireland 🇮🇪**.
 
-My background is not a straight line. I have lived through military training, bodybuilding discipline, hospitality pressure, gym management, security work, coding bootcamps, and rebuilding my career from zero in another country.
+My story is not a clean Git history. It has commits from Brazil, Spain, London, military training, bodybuilding, hospitality, gym management, security work, university, coding bootcamps, and a lot of forced refactoring.
 
 That is exactly what makes me different.
 
-I do not see software as just syntax. I see it as a system of logic, pressure, problem-solving, discipline, and execution. The same patience I use under a heavy squat is the patience I bring to debugging, refactoring, and building better products.
+I do not see software as just syntax. I see it as a system of logic, pressure, discipline, communication, and execution. The same patience I use under a heavy squat is the patience I bring to debugging, refactoring, and building better products.
 
 ```txt
-Military mindset   → discipline under pressure
-Bodybuilding       → consistency when motivation dies
-Full-stack coding  → logic, creativity and problem solving
-Coaching/management → communication, leadership and human behaviour
+Military mindset      → discipline under pressure
+Bodybuilding          → consistency when motivation dies
+Full-stack coding     → logic, creativity and problem solving
+Coaching/management   → communication, leadership and human behaviour
+Current operating mode → build, learn, fail, refactor, repeat
 ```
 
 ---
@@ -49,22 +56,71 @@ Coaching/management → communication, leadership and human behaviour
 
 ## 😂 Developer Gym Logic
 
-> Any programmer can become a bodybuilder.
-> But not every bodybuilder wants to fight JavaScript at 2 a.m.
+> Some people chase PRs on GitHub.  
+> I chase PRs in the gym too.  
+> Pull Requests. Personal Records. Same pain, different repository.
 
 I lift weights.  
 I lift bugs.  
-I occasionally lift production errors and pretend it was part of the workout.
+I lift state.  
+I occasionally lift production errors and pretend it was part of the program.
 
 ```js
+const andre = {
+  role: "Full-Stack Developer",
+  background: ["Brazilian Air Force", "Bodybuilding", "Gym Management"],
+  dailySplit: ["train body", "train mind", "write code", "fight bugs"],
+  weakness: "CSS acting like it pays rent",
+  superpower: "turning pressure into output"
+};
+
 while (alive) {
-  trainBody();
-  trainMind();
-  writeCode();
-  fixBugs();
-  if (motivation === 0) discipline++;
+  andre.dailySplit.forEach(task => execute(task));
+
+  if (motivation === 0) {
+    discipline++;
+  }
+
+  if (bug.level === "boss fight") {
+    console.log("Time to progressive overload the brain.");
+  }
 }
 ```
+
+---
+
+## 🏋🏼‍♂️ Gym x Code Translation Table
+
+| Gym Life | Developer Life |
+|---|---|
+| Warm-up sets | Reading the documentation before touching the code |
+| Heavy squat | Debugging a bug that only happens in production |
+| Ego lifting | `git push --force` without thinking |
+| Cutting phase | Removing useless code and pretending it was easy |
+| Bulking phase | Installing one package and receiving 478 dependencies |
+| Deload week | Refactoring without adding new features |
+| Bad form | Copy-pasting from Stack Overflow with zero understanding |
+| Personal Record | Pull Request that actually gets approved |
+| Leg day | Fixing CSS layout on mobile |
+| Coach says “one more rep” | Senior dev says “just one small change” |
+
+---
+
+## 📆 My Developer Training Split
+
+```txt
+Monday     Chest + React components
+Tuesday    Legs + Java loops
+Wednesday  Back + API routes
+Thursday   Shoulders + Git conflicts
+Friday     Arms + CSS that refuses to center
+Saturday   Cardio + deployment anxiety
+Sunday     Rest day... just kidding, README improvements
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=git+commit+-m+%22trained+chest+and+fixed+navbar%22;git+push+origin+discipline;404%3A+motivation+not+found.+Discipline+loaded.;npm+install+protein+creatine+discipline" alt="Funny terminal typing" />
+</p>
 
 ---
 
@@ -108,6 +164,14 @@ while (alive) {
 
 ---
 
+## 🏆 GitHub Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=andrejulio072&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Training Log
 
 <p align="center">
@@ -123,11 +187,9 @@ while (alive) {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrejulio072&theme=tokyo-night&hide_border=true" alt="Andre's GitHub activity graph" />
 </p>
 
-<!-- Optional: enable this after adding the snake GitHub Action workflow.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrejulio072/andrejulio072/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/andrejulio072/andrejulio072/output/snake.svg" alt="Snake contribution animation" />
 </p>
--->
 
 ---
 
@@ -141,6 +203,15 @@ Output: stronger code, stronger body, stronger mind
 
 I am not here only to write code.  
 I am here to build systems, solve problems, keep learning, and turn pressure into output.
+
+```bash
+andre@github:~$ npm run life
+> building body...
+> building software...
+> building discipline...
+> warning: comfort zone not found
+> success: stronger version deployed
+```
 
 ---
 
