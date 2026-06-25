@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hero-clean.svg" alt="Code Lift Build visual" width="100%" />
+  <img src="./assets/hero-animated-v2.svg" alt="Animated Code Lift Build visual" width="100%" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🧬 Complete Bio
 
 <p align="center">
-  <img src="./assets/journey-clean.svg" alt="Journey visual" width="100%" />
+  <img src="./assets/journey-animated-v2.svg" alt="Animated journey visual" width="100%" />
 </p>
 
 I am **Andre Garcia**, a **Computer Science student at Maynooth University**, **Full-Stack Developer**, **online fitness coach**, **bodybuilder**, and **former Brazilian Air Force cadet** currently based in **Ireland 🇮🇪**.
@@ -63,7 +63,7 @@ Current mission        → merge technology, health and human performance
 ## 🎓 Computer Science at Maynooth University
 
 <p align="center">
-  <img src="./assets/maynooth-clean.svg" alt="Computer Science at Maynooth University" width="100%" />
+  <img src="./assets/maynooth-animated-v2.svg" alt="Animated Maynooth Computer Science visual" width="100%" />
 </p>
 
 I am currently strengthening my academic base in **Computer Science / Computer Engineering at Maynooth University**. This is where I am sharpening the theory behind the execution: programming, logic, algorithms, systems thinking, mathematics and problem solving.
@@ -84,7 +84,7 @@ My goal is not just to build apps that work. My goal is to understand systems de
 ## 📱 Garcia Builder Fitness App
 
 <p align="center">
-  <img src="./assets/app-clean.svg" alt="Garcia Builder Fitness App visual" width="100%" />
+  <img src="./assets/app-animated-v2.svg" alt="Animated Garcia Builder Fitness App visual" width="100%" />
 </p>
 
 I am currently developing the idea and structure for the **Garcia Builder Fitness App**, a project that connects my fitness coaching experience with my software development journey.
@@ -241,10 +241,10 @@ The goal is simple: build things that are useful, clean, practical and hard to i
 
 ---
 
-## 🏆 GitHub Trophy Cabinet
+## 🏆 Achievement System
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrejulio072&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
+  <img src="./assets/achievement-animated.svg" alt="Animated achievement system visual" width="100%" />
 </p>
 
 ---
