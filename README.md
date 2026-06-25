@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:000000,45:111111,100:F7C845&text=Andre%20Garcia&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Bodybuilder%20%7C%20Ex-Military&descAlignY=58&animation=fadeIn" alt="Andre Garcia profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,45:111111,100:F7C845&text=Andre%20Garcia&fontColor=ffffff&fontSize=56&fontAlignY=37&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Bodybuilder%20%7C%20Ex-Military&descAlignY=58&animation=fadeIn" alt="Andre Garcia profile banner" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=950&color=F7C845&center=true&vCenter=true&width=1050&lines=I+debug+code+like+it%27s+heavy+leg+day.;Computer+Science+at+Maynooth+University.;Building+Garcia+Builder+Fitness+App.;Clean+code.+Heavy+lifts.+No+excuses.;I+lift+weights%2C+bugs%2C+state+and+occasionally+production+errors." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrejulio072&style=for-the-badge&color=F7C845&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Maynooth-Computer%20Science-F7C845?style=for-the-badge&logo=academia&logoColor=black" />
-  <img src="https://img.shields.io/badge/Building-Garcia%20Builder%20Fitness%20App-000000?style=for-the-badge&logo=react&logoColor=F7C845" />
 </p>
 
 <p align="center">
@@ -21,6 +15,10 @@
 </p>
 
 <p align="center">
+  <b>📍 Based in Ireland</b> • <b>🎓 Maynooth University</b> • <b>📱 Building Garcia Builder Fitness App</b>
+</p>
+
+<p align="center">
   <img src="./assets/code-lift-build.svg" alt="Code Lift Build custom visual" width="100%" />
 </p>
 
@@ -28,17 +26,28 @@
 
 ## 🧬 Complete Bio
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coding animation" />
+<p align="center">
+  <img src="./assets/journey-roadmap.svg" alt="Journey roadmap" width="100%" />
+</p>
 
 I am **Andre Garcia**, a **Computer Science student at Maynooth University**, **Full-Stack Developer**, **online fitness coach**, **bodybuilder**, and **former Brazilian Air Force cadet** currently based in **Ireland 🇮🇪**.
 
-My background is not a straight line. It is more like a Git history with war commits, failed builds, emergency patches, brutal refactors and a few commits that probably should have been squashed.
+My story is not a straight line. It is more like a Git history with hard resets, brutal refactors, painful debugging sessions and a few commits that absolutely should have been reviewed twice.
 
-I grew up between **Brazil 🇧🇷 and Spain 🇪🇸**, served **5 years in the Brazilian Air Force**, rebuilt my life in **London**, worked through gyms, hospitality, security and management, completed a full-stack coding bootcamp, and now I am building a stronger technical foundation through **Computer Science at Maynooth University**.
+I grew up between **Brazil 🇧🇷 and Spain 🇪🇸**, served **5 years in the Brazilian Air Force**, rebuilt my life in **London**, worked in gyms, hospitality, security and management, completed a full-stack coding bootcamp, and now I am developing a stronger technical foundation through **Computer Science at Maynooth University**.
 
-The unusual part is exactly the point. I do not come to software only from tutorials and syntax. I come from pressure, discipline, leadership, bodybuilding, coaching, customer problems, real-life operations and the ability to keep moving when motivation disappears.
+What makes my path unusual is exactly what makes it useful. I do not come into software only from syntax and tutorials. I come from discipline, pressure, leadership, bodybuilding, coaching, customer problems, people management and the ability to keep moving when motivation is gone.
 
-I see code the same way I see training: systems, structure, progressive overload, patience and execution. Bad code is like bad form. It might work today, but eventually something breaks.
+I see code the same way I see training: structure, progressive overload, consistency and execution. Bad code is like bad form. It might survive one set, but eventually something tears.
+
+### Quick snapshot
+
+- 🪖 **Military background** that shaped discipline, pressure management and leadership
+- 🏋🏼‍♂️ **Bodybuilding lifestyle** with more than 10 years of consistency and self-discipline
+- 💻 **Full-stack development journey** focused on useful products and strong fundamentals
+- 🎓 **Computer Science at Maynooth University** to build deeper theoretical and technical understanding
+- 📱 **App builder mindset** using tech to solve real human problems in fitness and behaviour change
+- 🧠 **Big interest in human performance**, systems, habits, psychology and AI
 
 ```txt
 Military mindset       → discipline under pressure
@@ -57,19 +66,18 @@ Current mission        → merge technology, health and human performance
   <img src="./assets/maynooth-cs-card.svg" alt="Computer Science at Maynooth University" width="100%" />
 </p>
 
-I am currently developing my academic foundation in **Computer Science / Computer Engineering at Maynooth University**. This is where I am strengthening the theory behind the execution: programming, algorithms, logic, systems thinking, mathematics and problem solving.
+I am currently strengthening my academic base in **Computer Science / Computer Engineering at Maynooth University**. This is where I am sharpening the theory behind the execution: programming, logic, algorithms, systems thinking, mathematics and problem solving.
 
-My goal is not only to become someone who can build apps. My goal is to understand how systems work deeply enough to build better, cleaner and more scalable solutions.
+My goal is not just to build apps that work. My goal is to understand systems deeply enough to build cleaner, smarter and more scalable solutions.
 
-```txt
-Current academic focus:
-Java programming
-Problem solving
-Algorithms and logic
-Computer systems
-Mathematics for computing
-Software engineering foundations
-```
+### Current academic focus
+
+- Java programming
+- Problem solving
+- Algorithms and logic
+- Computer systems
+- Mathematics for computing
+- Software engineering foundations
 
 ---
 
@@ -91,15 +99,13 @@ Garcia Builder Fitness App is being designed around the coach-client relationshi
 
 ### Planned features
 
-| Area | Feature idea |
-|---|---|
-| Client onboarding | Goals, body data, lifestyle, training experience and barriers |
-| Training | Personalised workouts, exercise notes, weekly progression and substitutions |
-| Nutrition | Calorie targets, protein targets, simple meal guidance and adherence tracking |
-| Check-ins | Weekly feedback, photos, measurements, weight trends and coach notes |
-| Behaviour | Habits, discipline score, sleep, stress and consistency tracking |
-| Coach dashboard | Client overview, red flags, progress status and communication flow |
-| Education | Simple explanations so clients understand the process, not just follow orders |
+- **Client onboarding** — goals, body data, lifestyle, training experience and barriers
+- **Training** — personalised workouts, exercise notes, weekly progression and substitutions
+- **Nutrition** — calorie targets, protein targets, simple meal guidance and adherence tracking
+- **Check-ins** — weekly feedback, photos, measurements, weight trends and coach notes
+- **Behaviour** — habits, discipline score, sleep, stress and consistency tracking
+- **Coach dashboard** — client overview, red flags, progress status and communication flow
+- **Education** — simple explanations so clients understand the process, not just follow orders
 
 ```js
 const garciaBuilderFitnessApp = {
@@ -146,24 +152,23 @@ while (alive) {
 }
 ```
 
----
+<p align="center">
+  <img src="./assets/terminal-chaos.svg" alt="Developer terminal humor card" width="100%" />
+</p>
 
-## 🏋🏼‍♂️ Gym x Code Translation Table
+### Gym life translated into developer life
 
-| Gym Life | Developer Life |
-|---|---|
-| Warm-up sets | Reading the documentation before touching the code |
-| Heavy squat | Debugging a bug that only happens in production |
-| Ego lifting | `git push --force` without thinking |
-| Cutting phase | Removing useless code and pretending it was easy |
-| Bulking phase | Installing one package and receiving 478 dependencies |
-| Deload week | Refactoring without adding new features |
-| Bad form | Copy-pasting from Stack Overflow with zero understanding |
-| Personal Record | Pull Request that actually gets approved |
-| Leg day | Fixing CSS layout on mobile |
-| Coach says “one more rep” | Senior dev says “just one small change” |
-| DOM manipulation | Trying to move furniture in a tiny gym at peak time |
-| Merge conflict | Two personal trainers trying to use the same squat rack |
+- **Warm-up sets** → reading the documentation before touching the code
+- **Heavy squat** → debugging a bug that only happens in production
+- **Ego lifting** → `git push --force` without thinking
+- **Cutting phase** → removing useless code and pretending it was easy
+- **Bulking phase** → installing one package and receiving 478 dependencies
+- **Deload week** → refactoring without adding new features
+- **Bad form** → copy-pasting from Stack Overflow with zero understanding
+- **Personal Record** → pull request that actually gets approved
+- **Leg day** → fixing CSS layout on mobile
+- **Coach says “one more rep”** → senior dev says “just one small change”
+- **Merge conflict** → two personal trainers trying to use the same squat rack
 
 ---
 
@@ -180,7 +185,7 @@ Sunday     Rest day... just kidding, README improvements
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=git+commit+-m+%22trained+chest+and+fixed+navbar%22;git+push+origin+discipline;404%3A+motivation+not+found.+Discipline+loaded.;npm+install+protein+creatine+discipline;Error%3A+CSS+refused+to+center.+Trying+again+after+coffee." alt="Funny terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=git+commit+-m+%22trained+chest+and+fixed+navbar%22;git+push+origin+discipline;404%3A+motivation+not+found.+Discipline+loaded.;npm+install+protein+creatine+discipline;Error%3A+CSS+refused+to+center.+Trying+again." alt="Funny terminal typing" />
 </p>
 
 ---
@@ -214,13 +219,11 @@ Sunday     Rest day... just kidding, README improvements
 
 ## 🧩 Projects that Define Me
 
-| Project | What it shows | Status |
-|---|---|---|
-| **Garcia Builder Fitness App** | Coaching platform concept joining fitness, software and behaviour change | 🧠 In development planning |
-| [Garcia Builder](https://andrejulio072.github.io/Garcia-Builder/) | Fitness coaching brand, landing page, multilingual direction and behaviour-focused offer | ✅ Live |
-| Stay Safe | Community safety concept built during my full-stack journey | ⚠️ Needs link refresh |
-| Candles Store | Full-stack eCommerce practice project | ⚠️ Needs redeploy |
-| Portfolio | My wider developer journey and case studies | 🔄 To update |
+- **Garcia Builder Fitness App** — coaching platform concept joining fitness, software and behaviour change
+- [**Garcia Builder**](https://andrejulio072.github.io/Garcia-Builder/) — fitness coaching brand, landing page, multilingual direction and behaviour-focused offer
+- **Stay Safe** — community safety concept built during my full-stack journey
+- **Candles Store** — full-stack eCommerce practice project
+- **Portfolio** — broader developer journey and case studies
 
 > I prefer to show real evolution instead of pretending every old project is perfect. Some projects were built while learning, some need rebuilding, and that is part of the process.
 
